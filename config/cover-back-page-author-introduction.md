@@ -1,0 +1,3 @@
+<p><strong>Draven Quantum</strong> ist ein Autor spekulativer Philosophie, dessen Werk die Grenze zwischen Wissenschaft und menschlicher Sehnsucht erforscht. Mit einem Hintergrund in den Kognitionswissenschaften beschäftigt er sich mit den großen Fragen: Warum sind wir die Einzigen, die sprechen? Was bleibt, wenn wir verschwinden? Und was, wenn die Antwort erst kommt, wenn wir längst Staub sind.</p>
+<p>Sein neues Buch <em>„Letzter Funke“</em> ist keine Science-Fiction – es ist eine Reise durch die Statistik, die Physik, die Biologie – und die zarte Hoffnung, dass jemand da draußen noch lauscht.</p>
+<p><em>Draven Quantum schreibt unter einem Pseudonym.</em></p>
