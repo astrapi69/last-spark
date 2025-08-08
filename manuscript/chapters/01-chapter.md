@@ -72,7 +72,8 @@ Die Statistik lügt nicht:
 
 ### Die Drake-Gleichung – ein Versuch, das Unfassbare zu berechnen
 
-1961 stellte der Astronom Frank Drake eine Formel auf, um abzuschätzen, wie viele **kommunizierende Zivilisationen** es in unserer Galaxie geben könnte:
+1961 stellte der Astronom Frank Drake eine Formel auf, um abzuschätzen, wie viele **kommunizierende Zivilisationen** es
+in unserer Galaxie geben könnte:
 
 N = R* × fp × ne × fl × fi × fc × L
 
@@ -88,7 +89,8 @@ Die ersten Faktoren sind ermutigend.
 Die letzten?  
 **Ein Abgrund an Unwissen.**
 
-Wenn L – die Lebensdauer einer technischen Zivilisation – nur **200 Jahre** beträgt (unsere aktuelle Bilanz), dann könnte es in der ganzen Milchstraße **nur uns geben** – selbst wenn Leben häufig ist.
+Wenn L – die Lebensdauer einer technischen Zivilisation – nur **200 Jahre** beträgt (unsere aktuelle Bilanz), dann
+könnte es in der ganzen Milchstraße **nur uns geben** – selbst wenn Leben häufig ist.
 
 Weil wir uns **selbst auslöschen**, bevor jemand anderes uns hört.
 
@@ -128,3 +130,6 @@ Aber nur, wenn wir **noch da sind**, wenn die Antwort kommt.
 
 > **„Das Universum ist groß genug für Millionen von Zivilisationen.  
 > Aber es ist auch groß genug, um jeden einzelnen Funken darin verschwinden zu lassen.“**
+
+---
+*Und wenn wir nicht mehr sind – wer wird dann je erfahren, dass wir gesprochen haben?*

@@ -188,7 +188,4 @@ Wir sind dieser Funke.
 Noch.
 
 ---
-
-> **„Die Natur hat nicht gewollt, dass jemand nachdenkt.  
-> Wir sind ein Unfall – aber ein, der spricht.“**
-> – (frei nach Stanisław Lem)
+*Was aber, wenn die Zeit, in der wir brennen, schon bald vorbei ist?*
