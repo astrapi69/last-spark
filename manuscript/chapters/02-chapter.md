@@ -21,7 +21,8 @@ Weil **Intelligenz nicht das Ziel der Evolution ist** – sondern nur eine mögl
 
 Auf der Erde hat es **3,8 Milliarden Jahre Leben** gegeben.  
 Millionen von Arten sind gekommen und gegangen.  
-Doch nur **eine einzige** hat jemals geschrieben, gerechnet, philosophiert, geschickt – und sich gefragt, ob sie allein ist.
+Doch nur **eine einzige** hat jemals geschrieben, gerechnet, philosophiert, geschickt – und sich gefragt, ob sie allein
+ist.
 
 Der **Homo sapiens** ist kein „Höherstufung“ des Affen.  
 Er ist ein **emergentes Phänomen** – das Ergebnis einer seltenen Kombination aus:
@@ -42,9 +43,10 @@ Kann es sprechen? Kann es rechnen? Kann es Werkzeuge bauen?
 
 Aber Intelligenz ist **nicht einzigartig – sie ist vielfältig**.
 
-- Der **Waldameisenbär** nutzt einen Grashalm als Werkzeug, um Ameisen aus ihrem Bau zu fischen.  
-- Der **Neuseeländische Kea** löst komplexe mechanische Aufgaben – ohne jemals dafür trainiert worden zu sein.  
-- **Krähen** planen Handlungen mehrere Schritte voraus – und können sogar Werkzeuge herstellen, um ein anderes Werkzeug zu erreichen.
+- Der **Waldameisenbär** nutzt einen Grashalm als Werkzeug, um Ameisen aus ihrem Bau zu fischen.
+- Der **Neuseeländische Kea** löst komplexe mechanische Aufgaben – ohne jemals dafür trainiert worden zu sein.
+- **Krähen** planen Handlungen mehrere Schritte voraus – und können sogar Werkzeuge herstellen, um ein anderes Werkzeug
+  zu erreichen.
 
 Das ist **abstraktes Denken**.  
 Aber es ist **nicht symbolisch**.
@@ -74,7 +76,8 @@ Wir können Gedanken **in Gedanken verschachteln**:
 Diese Fähigkeit ist die Grundlage für **Sprache**, **Theorie des Geistes** und **komplexe Planung**.
 
 Tiersprachen sind meist **kontextgebunden**:  
-Ein Warnruf bedeutet „Adler!“ – nicht „Ich glaube, dass der Adler uns beobachtet, seit wir gestern den Baum bestiegen haben.“
+Ein Warnruf bedeutet „Adler!“ – nicht „Ich glaube, dass der Adler uns beobachtet, seit wir gestern den Baum bestiegen
+haben.“
 
 #### 3. **Kulturelle Akkumulation**
 
@@ -122,6 +125,7 @@ Und oft ist **Einfachheit** erfolgreicher als Komplexität.
 Nehmen wir drei viel diskutierte Kandidaten:
 
 #### 🐬 **Delfine**
+
 - Hohe Sozialintelligenz
 - Komplexe Kommunikation (Pfeiftöne, Namen)
 - Selbstwahrnehmung (Spiegeltest bestanden)
@@ -129,6 +133,7 @@ Nehmen wir drei viel diskutierte Kandidaten:
 - Kein Weg, Wissen dauerhaft zu speichern
 
 #### 🐘 **Elefanten**
+
 - Langzeitgedächtnis
 - Trauer um Tote
 - Soziale Bindungen über Jahrzehnte
@@ -136,6 +141,7 @@ Nehmen wir drei viel diskutierte Kandidaten:
 - Keine Technologie, keine Schrift
 
 #### 🐙 **Oktopus**
+
 - Geniale Problemlöser
 - Werkzeugnutzung (Kokosnuss als Schutz)
 - Einzelgänger – keine soziale Weitergabe

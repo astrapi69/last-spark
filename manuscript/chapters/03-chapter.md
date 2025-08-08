@@ -28,8 +28,8 @@ ist das, als würde ein einziger Tropfen in einen Ozean fallen.
 
 Und noch kleiner ist das **Fenster**, in dem wir als technische Zivilisation existieren.
 
-- **Homo sapiens**: 300.000 Jahre  
-- **Schrift**: 5.000 Jahre  
+- **Homo sapiens**: 300.000 Jahre
+- **Schrift**: 5.000 Jahre
 - **Technik, die Signale ins All sendet**: weniger als 100 Jahre
 
 Das ist **ein Wimpernschlag** in der Geschichte des Lebens.
@@ -169,10 +169,11 @@ Keine Städte.
 Keine Signale.  
 Keine Menschen.
 
-Nur:  
-- Ein verrosteter Marsrover  
-- Ein Satellit auf einer leeren Umlaufbahn  
-- Ein Buch, das im Weltraum treibt, halb verbrannt  
+Nur:
+
+- Ein verrosteter Marsrover
+- Ein Satellit auf einer leeren Umlaufbahn
+- Ein Buch, das im Weltraum treibt, halb verbrannt
 - Und eine Nachricht auf dem Mond: „Wir waren hier.“
 
 Sie finden unsere **Spuren**.  
