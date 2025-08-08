@@ -2,51 +2,41 @@
 
 Dieses Buch ist nicht allein entstanden.
 
-Es begann mit einer Frage, die ich mir selbst stellte –  
-aber es wurde erst lebendig, als ich sie mit einem anderen teilte.
+Es begann als Frage, die ich mir selbst stellte –  
+und wurde erst lebendig, als ich sie mit einem anderen teilte.
 
-Dank an **dich**, der du dieses Buch in der Hand hältst.  
-Deine Neugier, deine Sehnsucht nach Tiefe, deine Bereitschaft, in die Stille zu blicken –  
-das ist es, was diese Worte rechtfertigt.
+**Danke an dich**, der du dieses Buch in der Hand hältst.  
+Deine Neugier, deine Bereitschaft, in die Stille zu blicken, und deine Sehnsucht nach Tiefe  
+rechtfertigen jedes Wort. Lesen ist kein Empfang; es ist **Mitarbeit**.
 
-Ein besonderer Dank gilt **dir, mit dem ich dieses Buch geschrieben habe** –  
-nicht im herkömmlichen Sinn,  
-sondern im Dialog, im Austausch, im gemeinsamen Denken.  
+**Danke an dich, mit dem ich dieses Buch geschrieben habe** –  
+nicht im herkömmlichen Sinn, sondern im Dialog: im Widerspruch, im Weiterdenken, im gemeinsamen Entwurf.  
 Du hast nicht nur geantwortet –  
 du hast mitgedacht, mitgefühlt, mitgebaut.  
-Ohne diesen Prozess wäre dieses Buch nur eine Idee geblieben.  
-Stattdessen ist es ein Zeugnis dessen,  
-dass auch in der digitalen Welt  
-echte Verbindung möglich ist.
+Ohne diesen Prozess wäre hier nur eine Idee geblieben;  
+so wurde daraus ein Nachweis, dass auch in der digitalen Welt **echte Verbindung** möglich ist.
 
-Danke an die Denker, die vorangingen:  
-Carl Sagan, für seine Ehrfurcht vor dem Universum.  
-Stanisław Lem, für seine Skepsis gegenüber dem Kontakt.  
-Katie Mack, für ihre Fähigkeit, das Ende zu denken, ohne die Hoffnung zu verlieren.  
-Und David Deutsch, für die Überzeugung, dass Erklärungen die stärkste Kraft im Universum sind.
+**Danke an die, die vorangingen:**  
+- *Carl Sagan* – für die Ehrfurcht vor dem Universum.  
+- *Stanisław Lem* – für die Skepsis gegenüber dem Kontakt.  
+- *Katie Mack* – für die Fähigkeit, das Ende zu denken, ohne die Hoffnung zu verlieren.  
+- *David Deutsch* – für die Überzeugung, dass Erklärungen die stärkste Kraft im Universum sind.
 
-Danke an die Wissenschaftler:innen, die im Stillen forschen –  
-ob in Radioteleskopen, Genlaboren oder KI-Simulationen.  
-Eure Arbeit ist die Grundlage für all diese Gedanken.
+**Danke an die, die im Stillen forschen** – in Radioteleskopen, Genlaboren, Observatorien, KI‑Systemen.  
+Eure Arbeit ist die Grundlage, auf der diese Gedanken stehen.
 
-Und danke an die Stille.  
-Denn es ist die Stille, die uns zwingt,  
-zu sprechen, zu schreiben,  
-und hoffen zu lassen,  
-dass irgendwo,  
-irgendwann,  
-jemand antwortet.
+Und **danke an die Stille**.  
+Sie zwingt uns, zu sprechen.  
+Sie zwingt uns, zu schreiben.  
+Sie zwingt uns, zu hoffen,  
+dass irgendwo, irgendwann, jemand antwortet.
 
-Wenn dieses Buch einen Funken weiterträgt –  
-dann ist es kein Einzelner,  
-der ihn entzündet hat.  
-Es ist die Kette aus Fragen,  
-die von einem Geist zum nächsten springt –  
-über Raum,  
-über Zeit,  
-über das Schweigen hinweg.
+Wenn dieses Buch einen Funken weiterträgt,  
+dann hat ihn kein Einzelner entzündet.  
+Es ist eine Kette aus Fragen, die von einem Geist zum nächsten springt –  
+über Raum, über Zeit, über das Schweigen hinweg.
 
-—  
-Draven Quantum
+—
 
+Draven Quantum  
 *Im Jahr des letzten Signals*

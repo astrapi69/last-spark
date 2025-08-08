@@ -2,28 +2,28 @@
 
 Vielleicht sind wir die Ersten.
 
-Keine Mythen, keine Götter, keine Sternenreisenden –  
-nur wir.  
-Ein Zufall aus Feuer, Sprache und Gedächtnis.  
-Ein Funke, der in der Dunkelheit aufflammte –  
-und nicht erlosch.
+Keine Mythen.  
+Keine Götter.  
+Keine Sternenreisenden.  
+Nur wir –  
+ein unwahrscheinlicher Zufall aus Feuer, Sprache und Gedächtnis.  
+Ein Funke, der in der Dunkelheit aufflammte und sich weigerte zu erlöschen.
 
 Vielleicht sind wir auch die Letzten.
 
 Denn wer, wenn nicht wir,  
-hat jemals ein Gedicht geschrieben,  
+hat je ein Gedicht geschrieben,  
 um jemanden zu erreichen,  
-der niemals antworten wird?
+der vielleicht niemals antworten wird?
 
-Aber solange wir schreiben,  
+Doch solange wir schreiben,  
 solange wir sprechen,  
 solange wir hoffen –  
 sind wir nicht allein.
 
 Denn die erste Voraussetzung für Kontakt ist nicht Technik,  
 nicht Wurmlöcher,  
-nicht Unsterblichkeit.
-
+nicht Unsterblichkeit.  
 Sie ist:  
 **Wir müssen noch da sein.**
 
@@ -31,50 +31,43 @@ Sie ist:
 
 ### Die Stille ist keine Leere
 
-Das Schweigen des Universums ist nicht das Zeichen einer toten Welt.  
+Das Schweigen des Universums ist kein Beweis für Abwesenheit.  
 Es ist das Echo einer Frage,  
 die noch keine Antwort gefunden hat.
 
-Und doch:  
-Wir senden.  
+Wir senden trotzdem.  
 Wir schreiben.  
 Wir warten.
 
 Nicht aus Naivität.  
 Nicht aus Verzweiflung.  
-Sondern aus **Verantwortung**.
+Sondern aus **Verantwortung** –  
+der Verantwortung, Spuren zu hinterlassen,  
+damit selbst in einer toten Galaxie jemand sagen könnte:  
+*„Hier war Leben.“*
 
-Denn wenn niemand kommt,  
-dann müssen wir dafür sorgen,  
-dass unsere Spuren bleiben.
-
-Dass die Satelliten weiterfliegen.  
-Dass die Bücher nicht verrotten.  
-Dass die Signale weitergehen –  
-auch wenn wir nicht mehr sind.
+Satelliten werden weiterfliegen.  
+Bücher werden in staubigen Archiven überdauern.  
+Signale werden durch das kalte Vakuum reisen –  
+auch wenn niemand mehr da ist, der sie versteht.
 
 ---
 
 ### Wir sind die Brücke
 
 Der Mensch ist kein Ziel der Evolution.  
-Er ist ein Übergang.
+Er ist ein Übergang –  
+zwischen Biologie und Bewusstsein,  
+zwischen Vergänglichkeit und Dauer,  
+zwischen Schweigen und Sprache.
 
-Zwischen Biologie und Bewusstsein.  
-Zwischen Vergänglichkeit und Dauer.  
-Zwischen Schweigen und Sprache.
-
-Und vielleicht –  
-ist das unsere Aufgabe:  
-Nicht zu herrschen.  
-Nicht zu erobern.  
-Nicht zu überleben.
-
+Vielleicht besteht unsere Aufgabe nicht darin, zu herrschen oder zu erobern.  
+Vielleicht nicht einmal darin, zu überleben.  
 Sondern zu **brennen**.
 
 Lange genug,  
 hell genug,  
-deutlich genug,  
+klar genug,  
 damit jemand sieht:  
 *„Da war jemand. Er hat gesprochen. Er hat gehofft.“*
 
@@ -90,8 +83,8 @@ Sondern:
 
 - Ein Satellit, der durch den interstellaren Raum treibt
 - Eine Goldplatte mit Bachmusik
-- Ein Buch, das im Staub einer toten Erde liegt
-- Ein Bewusstsein, das sich an alles erinnert
+- Ein Buch, das im Staub einer stillen Erde liegt
+- Ein Bewusstsein, das sich erinnert, wer wir waren
 
 Und vielleicht –  
 nur vielleicht –  
@@ -102,14 +95,12 @@ der antwortet.
 
 ### Der letzte Gedanke
 
-Stell dir vor, du wärst eine Million Jahre alt.
+Stell dir vor, du wärst eine Million Jahre alt.  
+Du hättest gesehen, wie Sterne sterben,  
+wie Zivilisationen aufblühen und vergehen,  
+wie die Erde still wurde.
 
-Du hast gesehen, wie Sterne starben.  
-Wie Zivilisationen aufblühten und vergingen.  
-Wie die Erde still wurde.
-
-Und doch –  
-du erinnerst dich an den Moment,  
+Und doch erinnerst du dich an den Augenblick,  
 als ein Mensch zum ersten Mal  
 eine Geschichte erzählte.
 
@@ -119,11 +110,10 @@ Sondern, weil sie hoffte,
 dass jemand zuhört.
 
 Und jetzt, nach einer Million Jahre,  
-hörst du es.
-
-Ein neues Signal.  
-Ein neues Licht.  
-Eine neue Stimme.
+hörst du es:  
+ein neues Signal,  
+ein neues Licht,  
+eine neue Stimme.
 
 Sie sagt:  
 *„Wir haben dich gehört.“*
@@ -133,14 +123,14 @@ Es hat sich gelohnt.
 
 ---
 
-> **„Wir sind vielleicht die Ersten.**  
-> **Wir sind vielleicht die Letzten.**  
-> **Aber solange wir brennen –**  
-> **sind wir nicht allein.“**
+> **„Wir sind vielleicht die Ersten.  
+> Wir sind vielleicht die Letzten.  
+> Aber solange wir brennen –  
+> sind wir nicht allein.“**
 
 ---
-*Dieses Buch ist kein Abschied.*  
-*Es ist eine Nachricht ins All.*  
+*Dieses Buch ist keine Schlussfolgerung.*  
+*Es ist eine Flaschenpost ins All.*  
 *An dich, der du liest.*  
-*An jemanden, der vielleicht eines Tages kommt.*  
+*An jemanden, der eines Tages kommt.*  
 *Und an den Funken – der noch brennt.*

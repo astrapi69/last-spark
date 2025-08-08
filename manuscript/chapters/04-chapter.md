@@ -2,158 +2,136 @@
 
 Wir können nicht schneller als Licht reisen.
 
-Zumindest nach allem, was wir heute wissen, verbietet es die Relativitätstheorie:  
-**Nichts mit Masse kann die Lichtgeschwindigkeit erreichen.**  
-Und selbst wenn – die Zeit würde sich dehnen, die Welt hinter dir würde vergehen, während du fliegst.
+Zumindest nicht so, wie wir Raum verstehen.  
+Nach Einsteins Relativitätstheorie ist die Lichtgeschwindigkeit eine Grenze,  
+härter als jede Mauer aus Stein:  
+**Nichts mit Masse kann sie erreichen.**  
+Je näher wir ihr kommen, desto mehr dehnt sich die Zeit –  
+für uns verlangsamt, für den Rest des Universums beschleunigt.  
+Das Ziel rückt näher – doch alles, was wir zurücklassen,  
+altert uns davon.
 
-Ein Raumschiff, das mit 99 % der Lichtgeschwindigkeit reist,  
-könnte Proxima Centauri in etwa 4,3 Jahren erreichen –  
-aber auf der Erde wären bereits über 40 Jahre vergangen.
-
-Du kommst an – und alle, die du kanntest, sind tot.
+Ein Schiff, das mit 99 % der Lichtgeschwindigkeit zu Proxima Centauri fliegt,  
+braucht für die Crew nur etwas mehr als vier Jahre.  
+Doch wenn sie zurückkehrt, sind auf der Erde Jahrzehnte vergangen.  
+Die Zeit zwischen den Menschen hat sich gelöst –  
+ein unsichtbarer Riss, den keine Technik flickt.
 
 Das ist nicht Science-Fiction.  
 Das ist Physik.
 
 Und doch:  
-Wir wollen fliegen.  
 Wir wollen reisen.  
-Wir wollen **da sein**, wenn jemand antwortet.
+Wir wollen sehen.  
+Wir wollen da sein, wenn jemand antwortet.
 
-Also träumen wir von Dingen, die die Naturgesetze zu umgehen scheinen:  
-**Wurmlöchern. Warp-Antrieben. Zeitmaschinen.**
+Also entwerfen wir Gedankenmaschinen:  
+**Wurmlöcher. Warp-Antriebe. Zeitmaschinen.**
 
-Nicht, weil wir die Wissenschaft ignorieren.  
-Sondern weil wir die **Stille** nicht ertragen können.
-
----
-
-### Was die Physik heute sagt
-
-Die Relativitätstheorie von Albert Einstein hat zwei Dinge gelehrt:
-
-1. **Raum und Zeit sind miteinander verwoben.**
-2. **Lichtgeschwindigkeit ist die kosmische Geschwindigkeitsbegrenzung.**
-
-Aber sie hat auch eine Tür geöffnet.
-
-1935 beschrieben Einstein und Nathan Rosen eine theoretische Möglichkeit:  
-Ein **Wurmloch** – ein Tunnel durch die Raumzeit,  
-der zwei weit voneinander entfernte Punkte verbindet,  
-ohne dass man den Raum dazwischen durchqueren muss.
-
-Ein Wurmloch wäre wie ein gefalteter Zettel:  
-Zwei Enden, die durch eine Falte verbunden sind –  
-nicht durch die Fläche.
-
-Aber:
-
-- Es ist **instabil** – es kollabiert sofort
-- Es benötigt **exotische Materie** (negative Energie), die wir nicht kennen
-- Und es ist **nicht nachweisbar** – zumindest bisher
-
-Ähnlich ist es mit dem **Warp-Antrieb**,  
-wie ihn der Physiker Miguel Alcubierre 1994 vorschlug:  
-Ein Raumschiff würde nicht *durch* den Raum fliegen –  
-sondern den Raum **hinter sich ausdehnen** und **vor sich zusammenziehen**.  
-Wie eine Welle, auf der es reitet.
-
-Auch hier:
-
-- Theoretisch möglich – innerhalb der Gleichungen
-- Aber: benötigt **unmögliche Energiemengen**
-- Und **exotische Materie**, die es vielleicht gar nicht gibt
-
-Die Physik sagt also nicht: *„Unmöglich.“*  
-Sie sagt: *„Nicht mit unserem Wissen.“*
+Nicht, weil wir die Gesetze der Natur missachten wollen –  
+sondern weil wir die **Stille** nicht ertragen.
 
 ---
 
-### Warum wir diese Träume brauchen
+### Die Tür in der Theorie
 
-Die Sehnsucht nach Überlichtgeschwindigkeit ist **kein technisches Problem**.  
-Sie ist ein **existenzielles Dilemma**.
+Einstein und Rosen beschrieben 1935 einen Tunnel in der Raumzeit:  
+das **Wurmloch**.  
+Stell dir Raum und Zeit wie ein Blatt Papier vor.  
+Du faltest es so, dass zwei weit entfernte Punkte sich berühren.  
+Das Wurmloch ist die Falte –  
+ein Durchgang, ohne den Raum dazwischen zu bereisen.
 
-Wir wissen:
+Aber:  
+- Es wäre instabil, würde sofort kollabieren.  
+- Es bräuchte **exotische Materie** mit negativer Energie.  
+- Wir wissen nicht, ob solche Materie existiert.
 
-- Die Entfernungen im Universum sind zu groß.
-- Die Zeit ist zu kurz.
-- Wir sind zu vergänglich.
+Ähnlich verführerisch ist der **Warp-Antrieb**,  
+den Miguel Alcubierre 1994 beschrieb:  
+Ein Raumschiff würde nicht durch den Raum fliegen,  
+sondern den Raum hinter sich ausdehnen  
+und vor sich zusammenziehen –  
+wie eine Surferin auf einer Welle der Raumzeit.
 
-Und doch wollen wir **nicht allein gewesen sein**.
+Auch hier:  
+- Theoretisch in den Gleichungen möglich.  
+- Aber erfordert mehr Energie, als unsere Sonne in Milliarden Jahren liefern könnte.  
+- Und wiederum exotische Materie.
 
-Die Idee eines Wurmlöchs ist keine Ingenieurslösung.  
-Sie ist ein **Versuch, die Zeit zu überlisten**.  
-Ein Weg, jemandem zu begegnen, der vor Millionen von Jahren lebte –  
-oder erst in Millionen von Jahren existieren wird.
-
-Wir wollen nicht nur reisen.  
-Wir wollen **verbinden**.  
-Wir wollen sagen:  
-*„Wir waren hier. Wir haben gehofft. Wir haben gesprochen.“*
-
-Und wir wollen, dass jemand antwortet –  
-bevor die Antwort sinnlos wird.
-
----
-
-### Die Zeitmaschine, die wir nie bauen werden
-
-Zeitreisen in die **Vergangenheit** gelten als praktisch unmöglich.  
-Sie verletzen Kausalität.  
-Sie erzeugen Paradoxien.  
-Was wäre, wenn du deinen Großvater tötest, bevor du geboren wirst?
-
-Aber **Zeitreisen in die Zukunft** sind real.
-
-Sie geschehen bereits:
-
-- Astronaut:innen auf der ISS altern **ein paar Millisekunden langsamer** als wir auf der Erde.
-- Bei Annäherung an Lichtgeschwindigkeit würde die Zeit noch stärker verlangsamen.
-- Ein Flug zu einem fernen Stern könnte für die Reisenden nur Jahre dauern –  
-  auf der Erde aber Jahrtausende vergehen.
-
-Das ist keine Fiktion.  
-Das ist **Zeitdilatation** – und sie ist bewiesen.
-
-Aber was nutzt es, in die Zukunft zu reisen,  
-wenn alles, was du liebst, zurückbleibt – und vergeht?
-
-Wir wollen keine Zeitmaschine, um die Vergangenheit zu ändern.  
-Wir wollen eine, um **nicht zu verlieren**.  
-Um zu warten, bis jemand kommt.  
-Um zu sagen: *„Ich war noch da.“*
+Die Physik sagt nicht: *„Unmöglich.“*  
+Sie sagt: *„Nicht mit dem, was wir jetzt wissen.“*
 
 ---
 
-### Die wahre Technologie: Hoffnung
+### Warum wir solche Träume brauchen
 
-Wir werden vielleicht nie ein Wurmloch öffnen.  
-Vielleicht wird der Warp-Antrieb für immer eine Gleichung bleiben.  
-Vielleicht ist die Lichtgeschwindigkeit die letzte Grenze.
+Der Traum vom Überlichtflug ist weniger Technik als **Psychologie**.  
+Er ist eine Rebellion gegen das kosmische Gesetz der Trennung.  
+Ein Protest gegen die Gleichung, die uns voneinander fernhält.
 
-Aber wir **bauen sie trotzdem** – in unseren Gedanken, in unseren Geschichten, in unseren Träumen.
+Ohne solche Träume hätten wir nie Kontinente überquert,  
+nie Ozeane bezwungen,  
+nie aus Höhlen herausgeschaut.  
+Schon die Seefahrer der Antike verließen Sichtweite des Landes,  
+weil sie glaubten, dass dahinter mehr kam.  
+Manche kehrten nicht zurück –  
+aber ihre Routen wurden zu Straßen für andere.
 
-Weil wir nicht akzeptieren können,  
-dass die Antwort auf unsere Frage  
-erst kommt,  
-wenn wir längst Staub sind.
-
-Die Technologie, die wir wirklich brauchen,  
-ist nicht aus Metall oder Energie.  
-Sie ist aus **Willen**.  
-Aus **Überleben**.  
-Aus **Hoffnung**.
-
-Denn solange wir hoffen,  
-sind wir nicht allein.
+Ein Wurmloch ist für uns, was der offene Ozean für sie war:  
+eine Einladung, das Unbekannte zu erreichen,  
+bevor die Zeit uns trennt.
 
 ---
 
-> **„Wir bauen Wurmlöcher nicht aus exotischer Materie –**  
-> **sondern aus der Angst, niemals gehört zu werden.“**
+### Zeitreisen – Die Versuchung des Unmöglichen
+
+Reisen in die Vergangenheit sind fast sicher ausgeschlossen.  
+Sie würden Kausalität brechen:  
+das Großvaterparadox, die Möglichkeit, sich selbst zu verhindern.  
+Die Physik liebt Konsistenz –  
+und hasst logische Schleifen.
+
+Aber Reisen in die Zukunft?  
+Die geschehen schon jetzt.  
+Astronaut:innen auf der ISS altern winzige Bruchteile von Sekunden langsamer als wir.  
+GPS-Satelliten müssen relativistische Effekte ausgleichen,  
+sonst würden ihre Positionsangaben täglich Kilometer abweichen.
+
+Bei fast Lichtgeschwindigkeit könnte eine Reise zu einem fernen Stern  
+für die Reisenden nur Jahre dauern –  
+während auf der Erde Jahrtausende vergehen.  
+Man käme zurück in eine Welt, die uns nicht mehr kennt.
+
+Das ist die bittere Wahrheit:  
+Zeitmaschinen gibt es.  
+Aber sie bringen uns **weg** von allem,  
+nicht zu dem, was wir lieben.
 
 ---
-*Und wenn wir keine Maschine bauen können, die uns durch den Raum trägt –*  
-*dann müssen wir dafür sorgen, dass wir lange genug brennen,*  
-*bis jemand sieht, dass wir geleuchtet haben.*
+
+### Die wahre Maschine
+
+Vielleicht werden wir nie ein Wurmloch öffnen.  
+Vielleicht bleibt der Warp-Antrieb für immer eine Fußnote.  
+Vielleicht ist die Lichtgeschwindigkeit  
+nicht nur eine physikalische Grenze,  
+sondern auch eine Lektion in Demut.
+
+Doch der eigentliche Antrieb, der uns vorwärts trägt,  
+besteht nicht aus Metall oder Energie.  
+Er ist aus **Hoffnung** gebaut.  
+Hoffnung, dass es irgendwo ein Echo gibt.  
+Hoffnung, dass wir nicht allein sind.  
+Hoffnung, dass unser Funke von Bewusstsein  
+nicht der einzige im Dunkel bleibt.
+
+---
+
+> **„Wir bauen Wurmlöcher nicht aus exotischer Materie,  
+> sondern aus der Angst, niemals gehört zu werden.“**
+
+*Und wenn wir keine Maschine bauen können, die uns durch den Raum trägt,  
+müssen wir dafür sorgen,  
+dass wir lange genug leuchten,  
+bis jemand das Licht sieht.*

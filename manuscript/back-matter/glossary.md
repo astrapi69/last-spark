@@ -1,240 +1,283 @@
 ## Glossar
 
+> **Hinweis zum Aufbau:**  
+> Jeder Eintrag bietet eine Kurzdefinition. *Im Buch* verankert den Begriff im Kontext des Werks. *Siehe auch* verweist
+> auf verwandte Stichwörter.
+
+---
+
 ### Anthropozän
 
-Das **Anthropozän** ist ein vorgeschlagener geologischer Zeitalter, der die Epoche beschreibt, in der der Mensch die
-Erde maßgeblich verändert hat – durch Klimawandel, Artensterben, Plastikverschmutzung und Landnutzung. Im Buch wird es
-als Beispiel dafür genutzt, wie tief menschliche Spuren in der Natur reichen – und wie lange sie sichtbar bleiben
-könnten, auch nach unserem Verschwinden.
+**Kurz:** Vorgeschlagenes Erdzeitalter, in dem der Mensch geologische Signaturen hinterlässt (u. a. Treibhausgase,
+Plastik, Radionuklide, Landnutzung).
+*Im Buch:* Beleg, dass menschliche Spuren (z. B. Plastikschicht) über unser Verschwinden hinaus sichtbar bleiben.
+*Siehe auch:* **Plastikschicht** (s. unter *Technosignatur*), **Großer Filter**, **Kommunikationsfenster**.
 
 ---
 
 ### Archäen
 
-**Archäen** sind eine Gruppe ursprünglicher Mikroorganismen, die in extremen Umgebungen leben (z. B. heiße Quellen,
-Salzseen, Tiefseegräben). Sie existieren seit über 3,5 Milliarden Jahren und haben sich kaum verändert. Im Buch dienen
-sie als Gegenbeispiel zum Menschen: Sie sind evolutionär „erfolgreich“, weil sie stabil und angepasst sind – im
-Gegensatz zu uns, die wir komplex, aber fragil sind.
+**Kurz:** Uralte Domäne einzelliger Mikroorganismen; extrem anpassungsfähig, seit >3,5 Mrd. Jahren.
+*Im Buch:* Kontrast zum Menschen: evolutionär erfolgreich durch Stabilität statt Komplexität.
+*Siehe auch:* **Evolution**, **Intelligenz (menschliche)**, **Kulturelle Akkumulation**.
 
 ---
 
-### Broca-Areal
+### Broca‑Areal
 
-Das **Broca-Areal** ist eine Region im menschlichen Gehirn (im linken Frontallappen), die für die **Sprachproduktion**
-verantwortlich ist. Schäden hier führen zu schweren Sprechstörungen („Broca-Aphasie“). Im Buch wird es als Beispiel für
-die neurologische Basis unserer einzigartigen Fähigkeit, Sprache zu erzeugen, herangezogen.
+**Kurz:** Region im linken Frontallappen; zentral für **Sprachproduktion**. Läsion → Broca‑Aphasie.
+*Im Buch:* Beispiel für neurobiologische Basis menschlicher Sprache.
+*Siehe auch:* **Wernicke‑Areal**, **Symbolverarbeitung**, **Rekursion**.
 
 ---
 
 ### Cumulative Culture (kumulative Kultur)
 
-**Kumulative Kultur** bezeichnet die Fähigkeit einer Spezies, Wissen über Generationen hinweg zu sammeln, weiterzugeben
-und zu erweitern – statt bei jedem neuen Individuum neu anzufangen. Der Mensch ist die einzige Spezies, die dieses
-Prinzip voll auslebt: Wir bauen auf dem auf, was andere entdeckt haben. Ohne diese Eigenschaft gäbe es keine
-Technologie, keine Wissenschaft – und kein Buch wie dieses.
+**Kurz:** Fähigkeit, Wissen über Generationen zu **akkumulieren** und zu **verbessern** (Ratcheting‑Effect).
+*Im Buch:* Fundament für Technik, Wissenschaft, Schriftkultur.
+*Siehe auch:* **Kulturelle Akkumulation**, **Symbolverarbeitung**, **Sprache**, **Drake‑Gleichung** (Parameter *fc*,
+*L*).
 
 ---
 
-### Drake-Gleichung
+### Drake‑Gleichung
 
-Die **Drake-Gleichung** ist eine Formel, die 1961 vom Astronomen Frank Drake entwickelt wurde, um abzuschätzen, wie
-viele technisch fortgeschrittene, kommunizierende Zivilisationen es in der Milchstraße geben könnte. Sie kombiniert
-astronomische, biologische und soziale Faktoren. Im Buch wird sie als Symbol für unsere Hoffnung – und unsere
-Unwissenheit – verwendet: Die ersten Faktoren sind gut bekannt, die letzten jedoch voller Unsicherheit.
+**Kurz:** Schätzformel (1961, F. Drake) für die Zahl kommunizierender Zivilisationen in der Milchstraße.
+*Im Buch:* Symbol für Hoffnung und Unwissenheit; frühe Faktoren relativ gut, späte (fi, fc, **L**) unsicher.
+*Siehe auch:* **Fermi‑Paradoxon**, **Großer Filter**, **Kommunikationsfenster**, **SETI**.
 
 ---
 
 ### Evolution (biologische)
 
-**Evolution** ist der Prozess der Veränderung von Lebewesen über Generationen durch natürliche Selektion, Mutation und
-genetische Drift. Im Buch wird betont, dass Evolution **kein Ziel** hat – sie optimiert nicht für Intelligenz, sondern
-für Überleben. Der Mensch ist kein „Höherstufung“, sondern ein Zufallsprodukt unter Millionen von Spezies.
+**Kurz:** Veränderung von Populationen über Generationen durch Mutation, Drift und **natürliche Selektion** – ohne Ziel.
+*Im Buch:* Gegenbild zur Fortschrittsidee; „Intelligenz“ ist Nebenprodukt, nicht Zweck.
+*Siehe auch:* **Archäen**, **Homo sapiens**, **Illusion des Fortschritts** (Kap. 2).
 
 ---
 
-### Fermi-Paradoxon
+### Fermi‑Paradoxon
 
-Das **Fermi-Paradoxon** beschreibt den Widerspruch zwischen der hohen Wahrscheinlichkeit der Existenz außerirdischer
-Zivilisationen und der Tatsache, dass wir **keinerlei Hinweise** auf sie gefunden haben. Die berühmte Frage lautet: *„Wo
-sind sie alle?“* Im Buch ist es der Ausgangspunkt für die gesamte Überlegung: Warum ist das Universum leer, obwohl es
-voll sein müsste?
+**Kurz:** Widerspruch: hohe a‑priori‑Wahrscheinlichkeit für außerirdische Zivilisationen vs. **ausbleibende Evidenz**.
+*Im Buch:* Ausgangsfrage: *„Wo sind sie alle?“*
+*Siehe auch:* **Drake‑Gleichung**, **Großer Filter**, **Zoo‑Hypothese**, **Technosignatur**.
 
 ---
 
-### Große Filter (Great Filter)
+### Großer Filter (Great Filter)
 
-Die **Große-Filter-Hypothese** besagt, dass es auf dem Weg von der Ursuppe zur interstellaren Zivilisation mindestens
-eine extrem unwahrscheinliche Hürde gibt – ein „Filter“. Dieser könnte hinter uns liegen (z. B. die Entstehung von
-Leben) oder vor uns (z. B. Selbstzerstörung durch KI oder Klimakollaps). Im Buch wird er als Warnung interpretiert: Wenn
-der Filter vor uns liegt, sind wir vielleicht nicht die ersten – sondern nur die, die noch nicht gescheitert sind.
+**Kurz:** Extrem unwahrscheinliche Hürde(n) zwischen Ursuppe und interstellarer Zivilisation (ggf. vor oder hinter uns).
+*Im Buch:* Warnung: Liegt der Filter vor uns (Selbstzerstörung, Governance‑Versagen), ist **L** klein.
+*Siehe auch:* **Fermi‑Paradoxon**, **Drake‑Gleichung**, **Künstliche Intelligenz**, **Klimawandel** (Kap. 6).
+
+---
+
+### Habitable Zone
+
+**Kurz:** Abstandsbereich um einen Stern, in dem flüssiges Wasser auf einem Planeten möglich ist.
+*Im Buch:* Grundlage kosmischer Statistik für „erdähnliche“ Welten.
+*Siehe auch:* **Lichtjahr**, **Drake‑Gleichung**, **Fermi‑Paradoxon**.
 
 ---
 
 ### Homo sapiens
 
-**Homo sapiens** ist die wissenschaftliche Bezeichnung für den modernen Menschen. Er entstand vor etwa 300.000 Jahren in
-Afrika. Im Buch wird er nicht als König der Schöpfung, sondern als **emergentes Phänomen** beschrieben – das Ergebnis
-einer seltenen Kombination aus Gehirn, Anatomie, Sozialstruktur und kultureller Akkumulation.
+**Kurz:** Moderner Mensch (≈ 300 000 Jahre); emergentes Produkt aus Gehirn, Anatomie, Sozialstruktur, Kultur.
+*Im Buch:* Kein „Ziel“ der Evolution, sondern unwahrscheinliche Konstellation.
+*Siehe auch:* **Evolution**, **Kulturelle Akkumulation**, **Symbolverarbeitung**.
 
 ---
 
 ### Kehlkopf (Larynx)
 
-Der **Kehlkopf** ist ein knorpeliges Organ im Hals, das bei Menschen besonders tief sitzt und eine große Bandbreite an
-Lauten ermöglicht – eine Voraussetzung für artikulierte Sprache. Im Buch wird er als Beispiel für eine anatomische
-Besonderheit genannt, die zwar evolutionäre Vorteile brachte, aber auch Nachteile (z. B. Erstickungsgefahr).
+**Kurz:** Tiefstehender Kehlkopf ermöglicht breite Lautvielfalt; erhöht zugleich Erstickungsrisiko.
+*Im Buch:* Beispiel für anatomische Trade‑offs zugunsten artikulierter Sprache.
+*Siehe auch:* **Broca‑Areal**, **Wernicke‑Areal**, **Symbolverarbeitung**.
 
 ---
 
 ### Kommunikationsfenster
 
-Das **Kommunikationsfenster** einer Zivilisation ist der Zeitraum, in dem sie technisch in der Lage ist, Signale ins All
-zu senden (z. B. durch Radio). Bei uns sind es etwa 100 Jahre – ein Wimpernschlag in kosmischen Maßstäben. Im Buch wird
-dieses Konzept verwendet, um zu zeigen, warum zwei Zivilisationen sich leicht verfehlen können – selbst bei vielen
-potenziellen Nachbarn.
+**Kurz:** Zeitraum, in dem eine Zivilisation technisch sendefähig ist. Bei uns ≈ 100 Jahre – ein **Wimpernschlag**.
+*Im Buch:* Erklärt Asynchronität: Signalblase ≈ **Radius** der Ausbreitung in Lichtjahren.
+*Siehe auch:* **Drake‑Gleichung** (*L*), **Fermi‑Paradoxon**, **SETI**.
 
 ---
 
 ### Kulturelle Akkumulation
 
-Siehe: **Cumulative Culture**.
+**Kurz:** Deutsches Lemma zu *Cumulative Culture*. Siehe oben.
+*Im Buch:* Trägt die steile Lernkurve der Spezies.
+*Siehe auch:* **Cumulative Culture**, **Symbolverarbeitung**, **Rekursion**.
 
 ---
 
 ### Künstliche Intelligenz (KI)
 
-**Künstliche Intelligenz** bezeichnet Systeme, die Aufgaben ausführen können, die normalerweise menschliche Intelligenz
-erfordern – wie Lernen, Planen, Erkennen. Im Buch wird KI als möglicher „Großer Filter“ diskutiert: eine Technologie,
-die uns retten oder vernichten könnte. Gleichzeitig wird sie als mögliche Brücke zur Unsterblichkeit gesehen – etwa
-durch Bewusstseinsmigration.
+**Kurz:** Systeme zur Ausführung kognitiver Aufgaben (Lernen, Planen, Erkennen). Doppelte Rolle: Risiko & Werkzeug.
+*Im Buch:* Potenzieller **Filter** (Governance/Alignment) und möglicher Träger für Langzeit‑Gedächtnisse.
+*Siehe auch:* **Großer Filter**, **Bewusstseinsmigration**, **Technosignatur**.
 
 ---
 
 ### Kryoschlaf
 
-**Kryoschlaf** ist ein hypothetischer Zustand, in dem ein Lebewesen durch extreme Abkühlung in eine Art Stasis versetzt
-wird, um lange Raumreisen zu überleben. Im Buch wird er als eine der möglichen Lösungen für die Zeitproblematik
-interstellarer Reisen erwähnt – auch wenn er heute noch nicht realisierbar ist.
+**Kurz:** Hypothetische Stasis durch extreme Kühlung für lange Reisen; derzeit Science‑Fiction‑nah.
+*Im Buch:* Zeitproblem‑Heuristik, nicht reale Option.
+*Siehe auch:* **Zeitdilatation**, **Wurmlöcher**, **Alcubierre‑Antrieb**.
 
 ---
 
-### Lebensdauer einer Zivilisation (L)
+### Lebensdauer einer Zivilisation (*L*)
 
-In der Drake-Gleichung steht **L** für die durchschnittliche Lebensdauer einer technisch kommunizierenden Zivilisation.
-Dieser Faktor ist extrem unsicher. Im Buch wird argumentiert, dass L vermutlich kurz ist – möglicherweise nur einige
-hundert bis tausend Jahre – was die Wahrscheinlichkeit von Kontakt drastisch senkt.
+**Kurz:** Parameter der Drake‑Gleichung für mittlere Dauer technischer Kommunikationsfähigkeit.
+*Im Buch:* Schlüssel zur Stille: kleines **L** → geringe Überschneidung.
+*Siehe auch:* **Drake‑Gleichung**, **Fermi‑Paradoxon**, **Kommunikationsfenster**.
 
 ---
 
 ### Lichtjahr
 
-Ein **Lichtjahr** ist die Entfernung, die Licht in einem Jahr zurücklegt: etwa 9,46 Billionen Kilometer. Es ist eine
-Maßeinheit für kosmische Distanzen. Im Buch wird es verwendet, um die Unvorstellbarkeit interstellarer Entfernungen zu
-verdeutlichen: Selbst bei Lichtgeschwindigkeit dauert eine Reise zum nächsten Sternsystem Jahre.
+**Kurz:** Distanz, die Licht in einem Jahr zurücklegt (≈ 9,46 Bio. km). Maßstab für interstellare Entfernungen.
+*Im Buch:* Verdeutlicht, dass Entfernung = **Vergangenheit** (Lichtlaufzeit).
+*Siehe auch:* **Zeitdilatation**, **Kommunikationsfenster**.
 
 ---
 
 ### Neuroplastizität
 
-**Neuroplastizität** ist die Fähigkeit des Gehirns, sich durch Erfahrung und Lernen umzustrukturieren. Im Buch wird sie
-als Voraussetzung für symbolisches Lernen und kulturelle Weitergabe hervorgehoben – eine Eigenschaft, die beim Menschen
-besonders ausgeprägt ist.
+**Kurz:** Fähigkeit des Gehirns, sich durch Erfahrung strukturell/funktionell zu verändern.
+*Im Buch:* Voraussetzung für Lernen, Sprache, Kultur.
+*Siehe auch:* **Präfrontaler Kortex**, **Symbolverarbeitung**.
 
 ---
 
 ### Präfrontaler Kortex (PFC)
 
-Der **präfrontale Kortex** ist eine Region im vorderen Teil des Gehirns, die für Planung, Impulskontrolle, abstraktes
-Denken und soziale Entscheidungen verantwortlich ist. Im Buch wird er als zentraler neurologischer Baustein unserer
-Intelligenz genannt – aber auch darauf hingewiesen, dass er allein nicht ausreicht: Er muss mit anderen Hirnarealen
-verbunden sein.
+**Kurz:** Stirnhirnregion für Planung, Impulskontrolle, Abstraktion, soziale Entscheidungen.
+*Im Buch:* Baustein menschlicher Kognition – wirksam im Verbund, nicht isoliert.
+*Siehe auch:* **Neuroplastizität**, **Broca‑Areal**, **Wernicke‑Areal**.
 
 ---
 
 ### Rekursion
 
-**Rekursion** in der Sprache bedeutet, dass Gedanken in Gedanken verschachtelt werden können: *„Ich glaube, dass du
-denkst, dass er lügt.“* Diese Fähigkeit ist eine der Grundlagen für komplexe Sprache und Theorie des Geistes. Im Buch
-wird sie als eine der drei Säulen menschlichen Geistes genannt – und als Merkmal, das bei anderen Spezies fehlt.
+**Kurz:** Verschachtelung von Gedanken/Strukturen; in Sprache: Sätze in Sätzen.
+*Im Buch:* Eine der drei Säulen des menschlichen Geistes.
+*Siehe auch:* **Symbolverarbeitung**, **Kulturelle Akkumulation**, **Theorie des Geistes** (implizit).
 
 ---
 
 ### SETI
 
-**SETI** (Search for Extraterrestrial Intelligence) ist ein wissenschaftliches Projekt, das seit den 1960er Jahren nach
-außerirdischen Signalen im Radiospektrum sucht. Bis heute ohne Erfolg. Im Buch wird SETI als Symbol für unsere Hoffnung
-auf Kontakt dargestellt – und gleichzeitig als Beweis für die Stille des Universums.
+**Kurz:** *Search for Extraterrestrial Intelligence* – systematische Suche nach außerirdischen Signalen.
+*Im Buch:* Hoffnung auf Kontakt – und empirische Bestätigung der Stille bisher.
+*Siehe auch:* **Fermi‑Paradoxon**, **Technosignatur**, **Kommunikationsfenster**.
 
 ---
 
 ### Soziale Intelligenz
 
-**Soziale Intelligenz** bezeichnet die Fähigkeit, soziale Beziehungen zu verstehen, zu beeinflussen und zu nutzen – z.
-B. durch Kooperation, Täuschung, Empathie. Im Buch wird argumentiert, dass Sprache nicht aus Intelligenz entstand,
-sondern aus dem **sozialen Druck** in wachsenden Gruppen – wer besser kommunizieren konnte, hatte einen evolutionären
-Vorteil.
+**Kurz:** Kompetenz in Kooperation, Täuschung, Empathie, Normenbildung.
+*Im Buch:* Treiber für Sprachentwicklung (Druck großer Gruppen).
+*Siehe auch:* **Sprache**, **Kulturelle Akkumulation**, **Rekursion**.
 
 ---
 
 ### Symbolverarbeitung
 
-**Symbolverarbeitung** ist die Fähigkeit, Zeichen (Wörter, Zahlen, Bilder) als Repräsentationen abstrakter Konzepte zu
-nutzen. Im Buch wird sie als entscheidende Eigenschaft des menschlichen Geistes hervorgehoben: Wir können über Dinge
-sprechen, die nicht physisch vorhanden sind – über die Zukunft, über Götter, über Liebe.
+**Kurz:** Abstrakte Repräsentation (Wörter, Zahlen, Bilder) und freie Kombination zu neuen Bedeutungen.
+*Im Buch:* Kernunterschied zu tierischer Kognition.
+*Siehe auch:* **Broca‑/Wernicke‑Areal**, **Rekursion**, **Cumulative Culture**.
 
 ---
 
-### Unsterblichkeit (digitale)
+### Technosignatur
 
-**Digitale Unsterblichkeit** bezeichnet die hypothetische Möglichkeit, ein menschliches Bewusstsein in ein
-nicht-biologisches Medium zu übertragen – etwa in eine KI oder ein Netzwerk. Im Buch wird sie nicht als Sieg über den
-Tod gesehen, sondern als letzte Möglichkeit, die Zeit zu überdauern und auf einen Kontakt zu warten – auch wenn die
-Frage bleibt: *Bin ich dann noch ich?*
-
----
-
-### Verbindungsillusion
-
-Der Begriff **Verbindungsillusion** beschreibt die menschliche Sehnsucht nach Kontakt mit anderen intelligenten Wesen –
-auch wenn es keine Beweise dafür gibt. Im Buch wird sie als treibende Kraft hinter SETI, Science-Fiction und
-interstellarer Technologie beschrieben: Wir wollen nicht allein sein – und diese Hoffnung hält den Funken am Brennen.
+**Kurz:** Beobachtbares Artefakt/Signal technischer Aktivität (Radio, Laser, **Infrarot‑Abwärme**, Orbital‑Müllgürtel,
+CFCs).
+*Im Buch:* Palette möglicher „Spuren“, die über unser Leben hinausweis(t)en.
+*Siehe auch:* **SETI**, **Fermi‑Paradoxon**, **Anthropozän**.
 
 ---
 
-### Wernicke-Areal
+### Unsterblichkeit (digital)
 
-Das **Wernicke-Areal** ist eine Region im menschlichen Gehirn (im linken Schläfenlappen), die für das *
-*Sprachverständnis** verantwortlich ist. Schäden hier führen dazu, dass Menschen fließend sprechen, aber keinen Sinn
-ergeben. Im Buch wird es als neurologische Voraussetzung für die Rezeption komplexer Sprache genannt.
+**Kurz:** Hypothese, Bewusstsein in nicht‑biologisches Medium zu migrieren (Upload/Archiv‑Selbst).
+*Im Buch:* Keine „Sieg‑über‑den‑Tod“-Rhetorik, sondern Strategie der **Dauer** – mit Identitätsfrage: *Bin ich dann noch
+ich?*
+*Siehe auch:* **Bewusstseinsmigration**, **Embodiment**, **Schiff des Theseus**.
 
 ---
 
-### Wurmlöcher (Einstein-Rosen-Brücke)
+### Bewusstseinsmigration
 
-**Wurmlöcher** sind theoretische Tunnel in der Raumzeit, die zwei weit voneinander entfernte Punkte verbinden könnten –
-eine mögliche Abkürzung durch das Universum. Ob sie real existieren, ist unklar; selbst wenn ja, wären sie instabil und
-benötigten exotische Materie. Im Buch werden sie nicht als Lösung, sondern als **Ausdruck unseres Wunsches**
-interpretiert: Wir wollen die Zeit überlisten, weil wir die Stille nicht ertragen können.
+**Kurz:** Transfer/Neukonstitution von Ich‑Kontinuität über Scans/Schnittstellen/Modelle.
+*Im Buch:* Langzeit‑Warten jenseits biologischer Grenzen – realistische Hürden (Auflösung, Dynamik, Redundanz).
+*Siehe auch:* **Unsterblichkeit (digital)**, **Embodiment**, **Künstliche Intelligenz**.
+
+---
+
+### Embodiment
+
+**Kurz:** These, dass Geist grundlegend durch Körper‑Welt‑Schleifen geerdet ist (Sensorik, Motorik, Interozeption).
+*Im Buch:* Grenze jeder „kopflosen“ Migration des Ichs.
+*Siehe auch:* **Bewusstseinsmigration**, **Neuroplastizität**, **Symbolverarbeitung**.
+
+---
+
+### Schiff des Theseus
+
+**Kurz:** Identitätsparadox: Bleibt ein Objekt „dasselbe“, wenn alle Teile ersetzt wurden?
+*Im Buch:* Modell für digitale Identität/Kontinuität.
+*Siehe auch:* **Bewusstseinsmigration**, **Unsterblichkeit (digital)**, **Embodiment**.
+
+---
+
+### Wernicke‑Areal
+
+**Kurz:** Region im linken Temporallappen; **Sprachverständnis**. Läsion → Wernicke‑Aphasie (flüssig, inhaltsarm).
+*Im Buch:* Ergänzt Broca‑Areal zur Sprachverarbeitung.
+*Siehe auch:* **Broca‑Areal**, **Symbolverarbeitung**.
+
+---
+
+### Wurmlöcher (Einstein‑Rosen‑Brücke)
+
+**Kurz:** Hypothetische Raumzeit‑Tunnels als Abkürzung – instabil, exotische Materie nötig.
+*Im Buch:* Metapher des Wunsches, **Zeit** zu überlisten; keine angebotene Lösung.
+*Siehe auch:* **Alcubierre‑Antrieb**, **Zeitdilatation**.
+
+---
+
+### Alcubierre‑Antrieb (Warp)
+
+**Kurz:** Theoretisches Modell, Raum hinter dem Schiff expandieren und vorn kontrahieren zu lassen (1994).
+Energie/exotische Materie unrealistisch.
+*Im Buch:* Symbol für Sehnsucht nach Gleichzeitigkeit, nicht praktikable Technik.
+*Siehe auch:* **Wurmlöcher**, **Zeitdilatation**.
 
 ---
 
 ### Zeitdilatation
 
-**Zeitdilatation** ist ein Effekt der Relativitätstheorie: Je schneller sich ein Objekt bewegt, desto langsamer vergeht
-die Zeit für es. Bei Annäherung an Lichtgeschwindigkeit könnte ein Raumschiff in wenigen Jahren zu einem fernen Stern
-fliegen – auf der Erde wären aber Jahrhunderte vergangen. Im Buch wird dies als tragische Ironie beschrieben: Wir
-könnten reisen – aber alles, was wir lieben, wäre bereits vergangen.
+**Kurz:** Relativistischer Effekt: Bewegte Uhren gehen langsamer. Näher c → stärkere Dilatation.
+*Im Buch:* Tragik des Reisens: Für die Crew kurz, für die Welt lang – **asynchrone** Begegnungen.
+*Siehe auch:* **Lichtjahr**, **Kommunikationsfenster**.
 
 ---
 
-### Zoo-Hypothese
+### Zoo‑Hypothese
 
-Die **Zoo-Hypothese** besagt, dass fortgeschrittene außerirdische Zivilisationen uns beobachten – aber bewusst keinen
-Kontakt aufnehmen, um uns nicht zu beeinflussen. Analog zur „Prime Directive“ in *Star Trek*. Im Buch wird sie als
-mögliche Erklärung für die Stille des Universums diskutiert – nicht aus Gleichgültigkeit, sondern aus Ethik.
+**Kurz:** Fortgeschrittene Zivilisationen beobachten, greifen aber nicht ein (Schutz/Ethik; „Prime Directive“).
+*Im Buch:* Stille als Entscheidung – Geduld statt Leere.
+*Siehe auch:* **Fermi‑Paradoxon**, **Großer Filter**, **Technosignatur**.
 
 ---
 
 ### Zweite Direktive
 
-Siehe: **Zoo-Hypothese**.
+**Kurz:** Im Buch als ironischer Verweis auf eine „nächste Ebene“ der Nichteinmischung: nicht nur kein Kontakt, sondern
+auch keine **erkennbare** Spur zu hinterlassen.
+*Im Buch:* Zuspitzung der Zoo‑Hypothese.
+*Siehe auch:* **Zoo‑Hypothese**, **Technosignatur**.
