@@ -1,7 +1,3 @@
-[build-system]
-requires = [ "poetry-core>=2.0.0,<3.0.0",]
-build-backend = "poetry.core.masonry.api"
-
 [tool.poetry]
 name = "last-spark"
 version = "0.1.0"
@@ -20,7 +16,12 @@ pillow = "^11.2.1"
 pyyaml = "^6.0.2"
 toml = "^0.10.2"
 
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+pytest-mock = "^3.10.0"
+
 [tool.poetry.scripts]
+pandoc-batch = "scripts.pandoc_batch:main"
 clean-git-cache = "scripts.clean_git_cache:main"
 init-book-project = "scripts.init_book_project:main"
 print-version-build = "scripts.print_version_build:main"
@@ -37,8 +38,11 @@ shortcuts-export = "scripts.shortcuts_export:main"
 shortcuts-export-comic = "scripts.shortcuts_export_comic:main"
 shortcuts-init = "scripts.shortcuts_init:main"
 shortcuts-translate = "scripts.shortcuts_translate:main"
+
+# 🏁 Export Comic Shortcuts
 export-comic-html = "scripts.shortcuts_export_comic:export_comic_html"
 export-comic-pdf = "scripts.shortcuts_export_comic:export_comic_pdf"
+# 🏁 Export Shortcuts
 export-epub = "scripts.shortcuts_export:export_epub"
 export-epub2 = "scripts.shortcuts_export:export_epub2"
 export-e = "scripts.shortcuts_export:export_epub"
@@ -60,21 +64,42 @@ export-pvp = "scripts.shortcuts_export:export_print_version_paperback"
 export-print-version-hardcover = "scripts.shortcuts_export:export_print_version_hardcover"
 export-pvh = "scripts.shortcuts_export:export_print_version_hardcover"
 export-all-with-cover = "scripts.shortcuts_export:all_formats_with_cover"
+
+# Init Shortcuts
 update-mdv = "scripts.shortcuts_init:run_update_metadata_values"
 init-bp = "scripts.shortcuts_init:run_init_book_project"
+
+# Translation Shortcuts
+# Generic CLI Translation Shortcut
 translate = "scripts.shortcuts_translate:translate"
+# Verbose Translation Shortcuts
 translate_manuscript_to_german = "scripts.shortcuts_translate:translate_manuscript_to_german"
 translate_manuscript_from_german_to_english = "scripts.shortcuts_translate:translate_manuscript_from_german_to_english"
 translate_manuscript_from_english_to_spanish = "scripts.shortcuts_translate:translate_manuscript_from_english_to_spanish"
 translate_manuscript_from_german_to_spanish = "scripts.shortcuts_translate:translate_manuscript_from_german_to_spanish"
+# Short Translation Aliases
 translate-de-es = "scripts.shortcuts_translate:translate_manuscript_from_german_to_spanish"
 translate-en-es = "scripts.shortcuts_translate:translate_manuscript_from_english_to_spanish"
 translate-en-de = "scripts.shortcuts_translate:translate_manuscript_to_german"
 translate-de-en = "scripts.shortcuts_translate:translate_manuscript_from_german_to_english"
 
 [tool.pytest.ini_options]
-testpaths = [ "tests",]
+testpaths = ["tests"]
 
-[tool.poetry.group.dev.dependencies]
-pytest = "^8.0.0"
-pytest-mock = "^3.10.0"
+[build-system]
+requires = [ "poetry-core>=2.0.0,<3.0.0",]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pandoc_batch]
+root = "manuscript"
+outdir = "output"
+to = "epub"
+metadata_file = "config/metadata.yaml"
+resource_path = ["assets"]
+lang = "en"
+jobs = 4
+verbose = true
+standalone = true
+test_only = false
+patch_md = true
+fix_inplace = false

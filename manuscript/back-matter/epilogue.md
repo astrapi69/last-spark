@@ -1,4 +1,4 @@
-## Schlusskapitel: Der letzte Funke
+# Schlusskapitel: Der letzte Funke
 
 Vielleicht sind wir die Ersten.
 
@@ -129,6 +129,7 @@ Es hat sich gelohnt.
 > sind wir nicht allein.“**
 
 ---
+
 *Dieses Buch ist keine Schlussfolgerung.*  
 *Es ist eine Flaschenpost ins All.*  
 *An dich, der du liest.*  
