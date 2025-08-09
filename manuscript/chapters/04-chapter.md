@@ -154,6 +154,7 @@ sind wir nicht allein.
 > **sondern aus der Angst, niemals gehört zu werden.“**
 
 ---
+
 *Und wenn wir keine Maschine bauen können, die uns durch den Raum trägt –*  
 *dann müssen wir dafür sorgen, dass wir lange genug brennen,*  
 *bis jemand sieht, dass wir geleuchtet haben.*

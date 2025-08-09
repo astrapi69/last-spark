@@ -172,5 +172,6 @@ Sondern als **Einladung**.
 > **Sie könnte auch ein Zeichen von Geduld sein.“**
 
 ---
+
 *Und wenn wir eines Tages antworten – hoffentlich nicht mit einer Waffe,*  
 *sondern mit einem Gedicht.*

@@ -132,4 +132,5 @@ Aber nur, wenn wir **noch da sind**, wenn die Antwort kommt.
 > Aber es ist auch groß genug, um jeden einzelnen Funken darin verschwinden zu lassen.“**
 
 ---
+
 *Und wenn wir nicht mehr sind – wer wird dann je erfahren, dass wir gesprochen haben?*

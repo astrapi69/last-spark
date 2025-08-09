@@ -246,6 +246,7 @@ Und das ist mehr, als wir je hoffen durften.
 > **Aber sie ist auch die letzte Möglichkeit, jemanden zu begrüßen.“**
 
 ---
+
 *Und wenn wir nicht mehr sind –*  
 *dann sei wenigstens das, was von uns bleibt,*  
 *noch hell genug, um gesehen zu werden.*

@@ -139,6 +139,7 @@ Es hat sich gelohnt.
 > **sind wir nicht allein.“**
 
 ---
+
 *Dieses Buch ist kein Abschied.*  
 *Es ist eine Nachricht ins All.*  
 *An dich, der du liest.*  

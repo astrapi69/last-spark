@@ -173,5 +173,6 @@ Es heißt:
 > **Die größte Wahrheit ist: Wir sind noch da.“**
 
 ---
+
 *Und solange wir atmen, sprechen, hoffen –*  
 *können wir auch weitergehen.*

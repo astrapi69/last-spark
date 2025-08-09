@@ -193,4 +193,5 @@ Und sie werden nie eine Antwort bekommen.
 > **und dem Moment, in dem jemand zuhört.“**
 
 ---
+
 *Und wenn wir schon nicht zusammen sein können – wenigstens sollen sie wissen, dass wir es versucht haben.*

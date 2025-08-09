@@ -208,6 +208,7 @@ Und die Antwort steht in den Spuren, die wir hinterließen.
 > **Sie wird aus dem Fakt bestehen, dass wir jemals gesprochen haben.“**
 
 ---
+
 *Und wenn niemand kommt –*  
 *dann war das Schreiben trotzdem der Beweis,*  
 *dass wir gelebt haben.*
