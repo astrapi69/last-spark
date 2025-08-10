@@ -1,4 +1,6 @@
-## Kapitel 7: Wenn wir doch gefunden würden
+## Kapitel 7: Wenn wir doch gefunden würden {#chapter-7}
+
+![Die Voyager-Sonde im interstellaren Raum](../../assets/illustrations/chapter07_voyager_probe.jpg)
 
 Stell dir vor, die Erde ist still.  
 Keine Stimmen.  
@@ -80,6 +82,8 @@ Und fragen:
 *„Wer waren diese Wesen, die so viel Schönheit in den Raum warfen?“*
 
 ---
+
+![Unberührte Fußabdrücke auf dem Mond](../../assets/illustrations/chapter07_moon_footprints.jpg)
 
 ### 2. Die Spuren auf dem Mond
 

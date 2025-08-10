@@ -21,6 +21,7 @@ pytest = "^8.0.0"
 pytest-mock = "^3.10.0"
 
 [tool.poetry.scripts]
+rename-png-to-jpg = "scripts.rename_png_to_jpg:main"
 pandoc-batch = "scripts.pandoc_batch:main"
 clean-git-cache = "scripts.clean_git_cache:main"
 init-book-project = "scripts.init_book_project:main"

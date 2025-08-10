@@ -1,6 +1,8 @@
-# @ Über den Autor {#-about-the-author}
+# @ Über den Autor {#about-the-author}
 
 ## Draven Quantum
+
+![Autorenporträt – Silhouette vor Sternenfeld](../../assets/author/draven-quantum-01.png)
 
 **Draven Quantum** ist ein Autor spekulativer Philosophie, der die Grenze zwischen Wissenschaft und menschlicher
 Sehnsucht erforscht. Seine Werke bewegen sich im Schwebezustand zwischen Fakten und Gefühl, zwischen Kosmos und

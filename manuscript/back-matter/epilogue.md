@@ -1,4 +1,6 @@
-## Schlusskapitel: Der letzte Funke
+## Der letzte Funke {#epilogue}
+
+![Eine letzte goldene Übertragung verschwindet im Weltraum](../../assets/illustrations/last_spark_transmission.jpg)
 
 Vielleicht sind wir die Ersten.
 

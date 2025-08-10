@@ -1,4 +1,6 @@
-## Kapitel 1: Kosmische Statistik – Warum Leben möglich ist
+## Kapitel 1: Kosmische Statistik – Warum Leben möglich ist {#chapter-1}
+
+![Milchstraße mit Ansammlungen bewohnbarer Welten](../../assets/illustrations/chapter01_habitable_worlds.jpg)
 
 Es gibt etwa **200 Milliarden Sterne** in unserer Galaxie, der Milchstraße.  
 Zwei Billionen Galaxien im beobachtbaren Universum.  
@@ -132,5 +134,7 @@ Aber nur, wenn wir **noch da sind**, wenn die Antwort kommt.
 > Aber es ist auch groß genug, um jeden einzelnen Funken darin verschwinden zu lassen.“**
 
 ---
+
+![Expandierende Hülle früher Radioemissionen](../../assets/illustrations/chapter01_signal_in_the_void.jpg)
 
 *Und wenn wir nicht mehr sind – wer wird dann je erfahren, dass wir gesprochen haben?*

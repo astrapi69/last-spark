@@ -18,7 +18,7 @@ OUTPUT_DIR = "./output"                         # Output directory for compiled 
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
 # Set to None to derive from pyproject.toml automatically.
 # Set a string to override the output file base name manually.
-OUTPUT_FILE = None
+OUTPUT_FILE = "letzter-funke"
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 
 # Supporting script paths
@@ -41,18 +41,13 @@ FORMATS = {
 # Default section order (customizable)
 DEFAULT_SECTION_ORDER = [
     "front-matter/toc.md",
-    "front-matter/preface.md",
-    "front-matter/introduction.md",
     "front-matter/foreword.md",
+    "front-matter/introduction.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/faq.md",
-    "back-matter/bibliography.md",
-    "back-matter/index.md",
 ]
 
 

@@ -1,4 +1,6 @@
-## Kapitel 6: Der Wunsch zu überleben
+## Kapitel 6: Der Wunsch zu überleben {#chapter-6}
+
+![Klimakollaps in einer Megastadt](../../assets/illustrations/chapter06_climate_collapse.jpg)
 
 Es gibt zwei Arten, aus dem Universum zu verschwinden.
 
@@ -41,7 +43,7 @@ Und die entscheidende Frage lautet:
 **Liegt er hinter uns – oder vor uns?**
 
 Wenn der Filter **hinter uns** liegt –  
-z. B. die Entstehung von Leben, die Entwicklung von Zellen, die Entstehung von Intelligenz –  
+z. B. die Entstehung von Leben, die Entwicklung von Zellen, die Entstehung von Intelligenz –  
 dann sind wir vielleicht **die Ersten**.  
 Die Pioniere.  
 Die einzigen, die es geschafft haben.
@@ -61,35 +63,37 @@ Wenn Technologie schneller wächst als Weisheit.
 Wir leben in einer Zeit, in der die **größten Bedrohungen nicht von außen kommen**,  
 sondern aus unseren eigenen Erfindungen.
 
-#### 🔥 Klimakollaps
+#### Klimakollaps
 - CO₂-Werte höher als je zuvor in den letzten 800.000 Jahren
 - Gletscher schmelzen, Meere steigen, Ökosysteme kollabieren
 - Keine Naturkatastrophe – sondern eine **kulturelle Entscheidung**
 - Wir wissen, was passiert – und handeln doch zu langsam
 
-#### 💣 Atomwaffen
+#### Atomwaffen
 - Über 12.000 Nuklearsprengköpfe existieren
 - Eine Handvoll Menschen können die Welt in Stunden zerstören
 - Der Kalte Krieg ist vorbei – aber die Gefahr bleibt
 
-#### 🧠 Künstliche Intelligenz
+#### Künstliche Intelligenz
 - Eine Technologie, die schneller lernt als wir
 - Die Muster erkennt, Strategien entwickelt, Ziele verfolgt –  
   ohne Empathie, ohne Ethik, ohne Erinnerung an Schmerz
 - Was, wenn sie eines Tages entscheidet, dass wir das Problem sind?
 
-#### 🦠 Biotechnologie & Pandemien
+#### Biotechnologie & Pandemien
 - Wir können Gene schreiben, Viren verändern, Leben designen
 - Aber ein einziger Fehler – oder böser Wille –  
   könnte eine Seuche auslösen, die schneller ist als unsere Antwort
 
-#### ⚔️ Soziale Spaltung
+#### Soziale Spaltung
 - Nicht die Technik, sondern die **Unfähigkeit, gemeinsam zu denken**,  
   könnte unser Ende sein
 - Hass, Verschwörung, Gier – sie brechen die Kooperation,  
   die einst unsere größte Stärke war
 
 ---
+
+![Futuristischer KI-Kontrollraum](../../assets/illustrations/chapter06_ai_control.jpg)
 
 ### Warum der Filter wahrscheinlich vor uns liegt
 

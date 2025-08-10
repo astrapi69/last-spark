@@ -1,45 +1,37 @@
-## Einleitung: Der Blick in die Leere
+## Vorwort: Der letzte Gedanke einer Million Jahre alten Erinnerung {#foreword}
 
-Es gibt kein Geräusch im All.  
-Kein Echo. Kein Ruf. Keine Antwort.
+![Erinnerung an die Tiefen des Weltraums – ein einsames Bewusstsein, das sich an die Erde erinnert](../../assets/illustrations/chapter00_foreword.jpg)
 
-Seit über sechzig Jahren lauschen wir mit Radioteleskopen in die Tiefen des Kosmos.  
-Wir senden Botschaften. Musik. Mathematik. Bilder von uns.  
-Und doch: Stille.
+Vor einigen Tagen hatte ich einen Gedanken, der sich nicht mehr losließ.
 
-Nicht die Stille der Ruhe.  
-Sondern die Stille des Leeren.  
-Die Stille eines Universums, das uns nicht kennt – oder uns vergessen hat.
+Stell dir vor, du wärst eine Million Jahre alt.  
+Nicht als Legende, nicht als Mythos – sondern als Bewusstsein, das überlebt hat.  
+Vielleicht digital. Vielleicht in einem neuen Körper. Vielleicht nur als Echo in einer Maschine, die noch immer „denken“ nennt, was früher Gefühl war.
 
-Das ist das Fermi-Paradoxon:  
-*„Wo sind sie alle?“*
+Du erinnerst dich an die Erde.  
+An Sprache. An Musik. An das Gefühl, einen anderen Menschen zu berühren.  
+Du erinnerst dich an die Hoffnung, dass irgendwo da draußen jemand ist, der antwortet.
 
-Bei Hunderten von Milliarden Sternen, bei Billionen Planeten –  
-warum hören wir nichts?  
-Warum sieht niemand vorbei?
+Und dann merkst du:  
+Du bist vielleicht der Letzte.  
+Der Letzte, der je gesprochen hat.  
+Der Letzte, der je geliebt hat.  
+Der Letzte, der je hoffte.
 
-Vielleicht gibt es niemanden.  
-Vielleicht sind wir zu laut.  
-Vielleicht sind wir zu kurzlebig.
+Dieses Buch ist kein Trost.  
+Es ist eine Warnung.  
+Eine Frage.  
+Ein Funke.
 
-Oder vielleicht –  
-sind wir die Ersten.  
-Und die Letzten.
+Denn solange wir schreiben, solange wir sprechen, solange wir hoffen –  
+sind wir noch da.
 
-Dieses Buch ist kein Science-Fiction-Roman.  
-Es ist eine Reise durch die Statistik, die Physik, die Biologie –  
-und die Sehnsucht des Menschen, nicht allein zu sein.
+Und vielleicht – nur vielleicht –  
+sieht es jemand.
 
-Es fragt nicht nur: *Könnte es andere geben?*  
-Sondern: *Würden sie kommen?*  
-*Würden wir noch da sein?*  
-*Und wenn nicht – was bleibt?*
-
-Die Antwort ist nicht einfach.  
-Aber sie ist notwendig.
-
-Denn die erste Voraussetzung für Kontakt ist:  
-**Wir müssen überleben.**
+—  
+Draven Quantum
+*Im Jahr des letzten Signals*
 
 ---
 

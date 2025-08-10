@@ -1,4 +1,6 @@
-## Kapitel 4: Wurmlöcher, Warp und Wunschmaschinen
+## Kapitel 4: Wurmlöcher, Warp und Wunschmaschinen {#chapter-4}
+
+![Ein gewaltiges Wurmloch im All](../../assets/illustrations/chapter04_wormhole.jpg)
 
 Wir können nicht schneller als Licht reisen.
 
@@ -96,6 +98,8 @@ Und wir wollen, dass jemand antwortet –
 bevor die Antwort sinnlos wird.
 
 ---
+
+![Warp-Antrieb verzerrt die Raumzeit](../../assets/illustrations/chapter04_warp_drive.jpg)
 
 ### Die Zeitmaschine, die wir nie bauen werden
 

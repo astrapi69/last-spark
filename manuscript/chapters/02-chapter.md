@@ -1,4 +1,6 @@
-## Kapitel 2: Intelligenz ist keine Pflicht
+## Kapitel 2: Intelligenz ist keine Pflicht {#chapter-2}
+
+![Delfine und ihre Intelligenz](../../assets/illustrations/chapter02_dolphin_intelligence.jpg)
 
 Es gibt Delfine, die Namen kennen.  
 Elefanten, die trauern.  
@@ -54,6 +56,8 @@ Aber es ist **nicht symbolisch**.
 Und genau das ist der Unterschied.
 
 ---
+
+![Menschliche Evolution im Zeitraffer](../../assets/illustrations/chapter02_human_evolution.jpg)
 
 ### Die drei Säulen des menschlichen Geistes
 
@@ -124,7 +128,7 @@ Und oft ist **Einfachheit** erfolgreicher als Komplexität.
 
 Nehmen wir drei viel diskutierte Kandidaten:
 
-#### 🐬 **Delfine**
+#### **Delfine**
 
 - Hohe Sozialintelligenz
 - Komplexe Kommunikation (Pfeiftöne, Namen)
@@ -132,7 +136,7 @@ Nehmen wir drei viel diskutierte Kandidaten:
 - Aber: Keine Hände, kein Werkzeug, keine Schrift
 - Kein Weg, Wissen dauerhaft zu speichern
 
-#### 🐘 **Elefanten**
+#### **Elefanten**
 
 - Langzeitgedächtnis
 - Trauer um Tote
@@ -140,7 +144,7 @@ Nehmen wir drei viel diskutierte Kandidaten:
 - Aber: Keine Feinmotorik, keine Sprachanatomie
 - Keine Technologie, keine Schrift
 
-#### 🐙 **Oktopus**
+#### **Oktopus**
 
 - Geniale Problemlöser
 - Werkzeugnutzung (Kokosnuss als Schutz)

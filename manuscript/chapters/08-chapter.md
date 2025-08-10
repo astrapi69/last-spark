@@ -1,4 +1,6 @@
-## Kapitel 8: Der Preis der Zeit – Wenn der Mensch nicht mehr sterben will
+## Kapitel 8: Der Preis der Zeit – Wenn der Mensch nicht mehr sterben will {#chapter-8}
+
+![Digitale Unsterblichkeit – Gehirn verwandelt sich in Daten](../../assets/illustrations/chapter08_digital_consciousness.jpg)
 
 Stell dir vor, du wärst eine Million Jahre alt.
 
@@ -120,6 +122,8 @@ Aber genug, um sagen zu können:
 *„Ich bin noch da.“*
 
 ---
+
+![Ein wartendes, leuchtendes Bewusstsein im All](../../assets/illustrations/chapter08_waiting_mind.jpg)
 
 ### Die Angst vor dem, was bleibt
 

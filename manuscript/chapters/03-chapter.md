@@ -1,4 +1,7 @@
-## Kapitel 3: Zeit – Der Feind aller Begegnung
+## Kapitel 3: Zeit – Der Feind aller Begegnung {#chapter-3}
+
+![Ausbreitung von Funksignalen im All](../../assets/illustrations/chapter03_signals_in_time.jpg)
+
 
 Stell dir vor, du stehst am Strand eines endlosen Ozeans.  
 In der Ferne siehst du einen Lichtpunkt – ein Schiff.  
@@ -46,6 +49,8 @@ die in einem dunklen Raum aufflammen –
 aber nie zur selben Zeit.
 
 ---
+
+![Verlassenes Raumschiff treibt im Weltraum](../../assets/illustrations/chapter03_lost_ships.jpg)
 
 ### Warum Zeit stärker ist als Raum
 

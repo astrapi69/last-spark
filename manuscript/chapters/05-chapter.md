@@ -1,4 +1,6 @@
-## Kapitel 5: Der Zoo und die Beobachter
+## Kapitel 5: Der Zoo und die Beobachter {#chapter-5}
+
+![Die Zoo-Hypothese – Beobachter im Orbit](../../assets/illustrations/chapter05_zoo_hypothesis.jpg)
 
 Stell dir vor, du stehst vor einem Terrarium.  
 Darin leben Wesen, die sich gerade erst zu erkennen beginnen.  
@@ -86,6 +88,8 @@ Sie lernen uns kennen –
 ohne dass wir es bemerken.
 
 ---
+
+![Getarnte außerirdische Sonde](../../assets/illustrations/chapter05_hidden_probe.jpg)
 
 ### Die Ethik des Nicht-Kontakts
 
