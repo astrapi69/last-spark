@@ -131,6 +131,31 @@
           "prompt": "A powerful last radio transmission beaming from Earth into deep space, a golden light streak disappearing into the stars"
         }
       ]
+    },
+    {
+      "chapter": 9,
+      "prompts": [
+        {
+          "filename": "chapter09_hands_of_language.png",
+          "prompt": "A surreal depiction of non-human hands, tentacles, and claws carving symbols into stone and sand under alien skies, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_symbol_memory.png",
+          "prompt": "An abstract cosmic brain formed of glowing constellations, neural pathways connecting stars into symbolic patterns, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_writing_as_survival.png",
+          "prompt": "An alien species etching survival symbols into cave walls during a storm, glowing markings illuminating their desperate need to remember, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_evolutionary_pressure.png",
+          "prompt": "A dramatic alien landscape with violent storms and scarce resources, a small intelligent creature clutching tools and symbols as it struggles to adapt, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_universal_spark.png",
+          "prompt": "A glowing spark of light leaping from Earth into the cosmos, mirrored by other sparks igniting on distant alien worlds, symbolizing universal consciousness, cinematic sci-fi realism, moody lighting"
+        }
+      ]
     }
   ]
 }
