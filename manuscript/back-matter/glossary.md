@@ -1,4 +1,6 @@
-## Glossar {#glossary}
+# Glossar {#glossary}
+
+## A
 
 ### Anthropozän
 
@@ -6,8 +8,7 @@ Das **Anthropozän** ist ein vorgeschlagener geologischer Zeitalter, der die Epo
 Erde maßgeblich verändert hat – durch Klimawandel, Artensterben, Plastikverschmutzung und Landnutzung. Im Buch wird es
 als Beispiel dafür genutzt, wie tief menschliche Spuren in der Natur reichen – und wie lange sie sichtbar bleiben
 könnten, auch nach unserem Verschwinden.
-
----
+> *„Unser Fossil ist nicht aus Knochen. Es ist aus Abfall. Und aus Hoffnung."*
 
 ### Archäen
 
@@ -16,7 +17,13 @@ Salzseen, Tiefseegräben). Sie existieren seit über 3,5 Milliarden Jahren und h
 sie als Gegenbeispiel zum Menschen: Sie sind evolutionär „erfolgreich“, weil sie stabil und angepasst sind – im
 Gegensatz zu uns, die wir komplex, aber fragil sind.
 
----
+## B
+
+### Biologische Schriftträger
+
+Organismen oder natürliche Systeme, die – bewusst oder unbewusst – Spuren hinterlassen, die als Informationsquelle
+dienen können: DNA, Gesteinsschichten, Korallenringe, Vogelgesang-Muster.
+> *Die Erde schreibt seit Milliarden Jahren. Wir sind erst seit Tausenden in der Lage, es zu lesen.*
 
 ### Broca-Areal
 
@@ -24,16 +31,25 @@ Das **Broca-Areal** ist eine Region im menschlichen Gehirn (im linken Frontallap
 verantwortlich ist. Schäden hier führen zu schweren Sprechstörungen („Broca-Aphasie“). Im Buch wird es als Beispiel für
 die neurologische Basis unserer einzigartigen Fähigkeit, Sprache zu erzeugen, herangezogen.
 
----
+## D
 
-### Cumulative Culture (kumulative Kultur)
+### Der letzte Funke
 
-**Kumulative Kultur** bezeichnet die Fähigkeit einer Spezies, Wissen über Generationen hinweg zu sammeln, weiterzugeben
-und zu erweitern – statt bei jedem neuen Individuum neu anzufangen. Der Mensch ist die einzige Spezies, die dieses
-Prinzip voll auslebt: Wir bauen auf dem auf, was andere entdeckt haben. Ohne diese Eigenschaft gäbe es keine
-Technologie, keine Wissenschaft – und kein Buch wie dieses.
+Metapher für das letzte bewusste Signal einer aussterbenden Zivilisation – sei es ein Buch, ein Satellit, eine Botschaft
+im All. Er steht nicht für Ende, sondern für Hoffnung: Dass jemand es sieht. Dass es gehört wird. Dass das Denken nicht
+vergebens war.
+> *Solange wir schreiben, solange wir sprechen, solange wir hoffen – sind wir noch da.*
 
----
+### Der universelle Funke
+
+Ein Prinzip, kein Zufall. Die Idee, dass die Fähigkeit zu denken, zu sprechen und zu schreiben nicht an die menschliche
+Form gebunden ist, sondern dort entstehen kann, wo drei Bedingungen zusammenkommen:
+
+1. **Werkzeugfähigkeit** (Symbolsetzung)
+2. **Symbolverarbeitung** (Gehirn)
+3. **Kultureller Druck** (Überleben durch Wissen)
+
+> *Wir sind nicht die Krone der Schöpfung. Wir sind ein Beispiel. Und vielleicht – nur vielleicht – nicht das letzte.*
 
 ### Drake-Gleichung
 
@@ -42,7 +58,7 @@ viele technisch fortgeschrittene, kommunizierende Zivilisationen es in der Milch
 astronomische, biologische und soziale Faktoren. Im Buch wird sie als Symbol für unsere Hoffnung – und unsere
 Unwissenheit – verwendet: Die ersten Faktoren sind gut bekannt, die letzten jedoch voller Unsicherheit.
 
----
+## E
 
 ### Evolution (biologische)
 
@@ -50,7 +66,20 @@ Unwissenheit – verwendet: Die ersten Faktoren sind gut bekannt, die letzten je
 genetische Drift. Im Buch wird betont, dass Evolution **kein Ziel** hat – sie optimiert nicht für Intelligenz, sondern
 für Überleben. Der Mensch ist kein „Höherstufung“, sondern ein Zufallsprodukt unter Millionen von Spezies.
 
----
+### Evolutionärer Druck
+
+Umweltbedingungen, die eine Spezies zwingen, sich zu verändern, um zu überleben: Klimawandel, Ressourcenknappheit,
+soziale Konkurrenz oder ökologische Instabilität. Intelligenz entsteht nicht aus Zufall – sie entsteht aus
+Notwendigkeit.
+> *Denken ist teuer. Es lohnt sich nur, wenn die Alternative das Aussterben ist.*
+
+## F
+
+### Feinmotorik
+
+Die präzise Kontrolle von Muskeln, insbesondere in Händen, Tentakeln, Schnäbeln oder Greiforganen, um feine Bewegungen
+auszuführen – etwa zum Schreiben, Werkzeugbauen oder Zeichnen.
+> *Die Hände der Sprache sind nicht unsere Hände. Sie sind jedes Organ, das eine Spur hinterlassen kann.*
 
 ### Fermi-Paradoxon
 
@@ -59,7 +88,7 @@ Zivilisationen und der Tatsache, dass wir **keinerlei Hinweise** auf sie gefunde
 sind sie alle?“* Im Buch ist es der Ausgangspunkt für die gesamte Überlegung: Warum ist das Universum leer, obwohl es
 voll sein müsste?
 
----
+## G
 
 ### Große Filter (Great Filter)
 
@@ -68,7 +97,7 @@ eine extrem unwahrscheinliche Hürde gibt – ein „Filter“. Dieser könnte h
 Leben) oder vor uns (z. B. Selbstzerstörung durch KI oder Klimakollaps). Im Buch wird er als Warnung interpretiert: Wenn
 der Filter vor uns liegt, sind wir vielleicht nicht die ersten – sondern nur die, die noch nicht gescheitert sind.
 
----
+## H
 
 ### Homo sapiens
 
@@ -76,7 +105,7 @@ der Filter vor uns liegt, sind wir vielleicht nicht die ersten – sondern nur d
 Afrika. Im Buch wird er nicht als König der Schöpfung, sondern als **emergentes Phänomen** beschrieben – das Ergebnis
 einer seltenen Kombination aus Gehirn, Anatomie, Sozialstruktur und kultureller Akkumulation.
 
----
+## K
 
 ### Kehlkopf (Larynx)
 
@@ -84,31 +113,13 @@ Der **Kehlkopf** ist ein knorpeliges Organ im Hals, das bei Menschen besonders t
 Lauten ermöglicht – eine Voraussetzung für artikulierte Sprache. Im Buch wird er als Beispiel für eine anatomische
 Besonderheit genannt, die zwar evolutionäre Vorteile brachte, aber auch Nachteile (z. B. Erstickungsgefahr).
 
----
-
 ### Kommunikationsfenster
 
 Das **Kommunikationsfenster** einer Zivilisation ist der Zeitraum, in dem sie technisch in der Lage ist, Signale ins All
 zu senden (z. B. durch Radio). Bei uns sind es etwa 100 Jahre – ein Wimpernschlag in kosmischen Maßstäben. Im Buch wird
 dieses Konzept verwendet, um zu zeigen, warum zwei Zivilisationen sich leicht verfehlen können – selbst bei vielen
 potenziellen Nachbarn.
-
----
-
-### Kulturelle Akkumulation
-
-Siehe: **Cumulative Culture**.
-
----
-
-### Künstliche Intelligenz (KI)
-
-**Künstliche Intelligenz** bezeichnet Systeme, die Aufgaben ausführen können, die normalerweise menschliche Intelligenz
-erfordern – wie Lernen, Planen, Erkennen. Im Buch wird KI als möglicher „Großer Filter“ diskutiert: eine Technologie,
-die uns retten oder vernichten könnte. Gleichzeitig wird sie als mögliche Brücke zur Unsterblichkeit gesehen – etwa
-durch Bewusstseinsmigration.
-
----
+> *Wir senden. Wir lauschen. Aber die Zeit ist kein Hindernis – sie ist die Trennwand zwischen den Lebenden.*
 
 ### Kryoschlaf
 
@@ -116,7 +127,22 @@ durch Bewusstseinsmigration.
 wird, um lange Raumreisen zu überleben. Im Buch wird er als eine der möglichen Lösungen für die Zeitproblematik
 interstellarer Reisen erwähnt – auch wenn er heute noch nicht realisierbar ist.
 
----
+### Kumulative Kultur (Cumulative Culture)
+
+Die Fähigkeit einer Spezies, Wissen über Generationen hinweg zu sammeln, zu erweitern und weiterzugeben – nicht nur
+durch Gene, sondern durch Symbole, Werkzeuge und Schrift. Im Gegensatz zu Instinkt ist sie veränderlich, lernbar und
+wachsend. Der Mensch ist die einzige Spezies, die dieses Prinzip voll auslebt: Wir bauen auf dem auf, was andere
+entdeckt haben. Ohne diese Eigenschaft gäbe es keine Technologie, keine Wissenschaft – und kein Buch wie dieses.
+> *Ohne kumulative Kultur beginnt jede Generation bei Null. Mit ihr kann ein Funke ein Feuer werden.*
+
+### Künstliche Intelligenz (KI)
+
+**Künstliche Intelligenz** bezeichnet Systeme, die Aufgaben ausführen können, die normalerweise menschliche Intelligenz
+erfordern – wie Lernen, Planen, Erkennen. Im Buch wird KI als möglicher „Großer Filter" diskutiert: eine Technologie,
+die uns retten oder vernichten könnte. Gleichzeitig wird sie als mögliche Brücke zur Unsterblichkeit gesehen – etwa
+durch Bewusstseinsmigration.
+
+## L
 
 ### Lebensdauer einer Zivilisation (L)
 
@@ -124,15 +150,13 @@ In der Drake-Gleichung steht **L** für die durchschnittliche Lebensdauer einer 
 Dieser Faktor ist extrem unsicher. Im Buch wird argumentiert, dass L vermutlich kurz ist – möglicherweise nur einige
 hundert bis tausend Jahre – was die Wahrscheinlichkeit von Kontakt drastisch senkt.
 
----
-
 ### Lichtjahr
 
 Ein **Lichtjahr** ist die Entfernung, die Licht in einem Jahr zurücklegt: etwa 9,46 Billionen Kilometer. Es ist eine
 Maßeinheit für kosmische Distanzen. Im Buch wird es verwendet, um die Unvorstellbarkeit interstellarer Entfernungen zu
 verdeutlichen: Selbst bei Lichtgeschwindigkeit dauert eine Reise zum nächsten Sternsystem Jahre.
 
----
+## N
 
 ### Neuroplastizität
 
@@ -140,7 +164,14 @@ verdeutlichen: Selbst bei Lichtgeschwindigkeit dauert eine Reise zum nächsten S
 als Voraussetzung für symbolisches Lernen und kulturelle Weitergabe hervorgehoben – eine Eigenschaft, die beim Menschen
 besonders ausgeprägt ist.
 
----
+### Neyari *(fiktiv)*
+
+Eine hypothetische Spezies, die als Gedankenmodell dient: vierfüßig, mit zwei Greifarmen, die auf einem Planeten mit
+extremen Dürrezyklen lebt. Sie entwickelt eine Knotenschrift, um Wasserquellen und Wetterzyklen festzuhalten. Ihre
+Schrift ist kein Luxus – sie ist Überlebensvorteil.
+> *Sie schreiben nicht wie wir. Aber sie erinnern sich. Sie planen. Sie hoffen.*
+
+## P
 
 ### Präfrontaler Kortex (PFC)
 
@@ -149,7 +180,7 @@ Denken und soziale Entscheidungen verantwortlich ist. Im Buch wird er als zentra
 Intelligenz genannt – aber auch darauf hingewiesen, dass er allein nicht ausreicht: Er muss mit anderen Hirnarealen
 verbunden sein.
 
----
+## R
 
 ### Rekursion
 
@@ -157,15 +188,13 @@ verbunden sein.
 denkst, dass er lügt.“* Diese Fähigkeit ist eine der Grundlagen für komplexe Sprache und Theorie des Geistes. Im Buch
 wird sie als eine der drei Säulen menschlichen Geistes genannt – und als Merkmal, das bei anderen Spezies fehlt.
 
----
+## S
 
 ### SETI
 
 **SETI** (Search for Extraterrestrial Intelligence) ist ein wissenschaftliches Projekt, das seit den 1960er Jahren nach
 außerirdischen Signalen im Radiospektrum sucht. Bis heute ohne Erfolg. Im Buch wird SETI als Symbol für unsere Hoffnung
 auf Kontakt dargestellt – und gleichzeitig als Beweis für die Stille des Universums.
-
----
 
 ### Soziale Intelligenz
 
@@ -174,15 +203,25 @@ B. durch Kooperation, Täuschung, Empathie. Im Buch wird argumentiert, dass Spra
 sondern aus dem **sozialen Druck** in wachsenden Gruppen – wer besser kommunizieren konnte, hatte einen evolutionären
 Vorteil.
 
----
-
 ### Symbolverarbeitung
 
-**Symbolverarbeitung** ist die Fähigkeit, Zeichen (Wörter, Zahlen, Bilder) als Repräsentationen abstrakter Konzepte zu
-nutzen. Im Buch wird sie als entscheidende Eigenschaft des menschlichen Geistes hervorgehoben: Wir können über Dinge
-sprechen, die nicht physisch vorhanden sind – über die Zukunft, über Götter, über Liebe.
+Die neurologische Fähigkeit, Zeichen (Laut, Bild, Geste, Wörter, Zahlen) mit abstrakten Bedeutungen zu verbinden – etwa
+ein Wort mit einem Gefühl, ein Strich mit einer Zahl, ein Lichtmuster mit einer Warnung. Sie ist die Grundlage von
+Sprache, Mathematik und Mythologie. Im Buch wird sie als entscheidende Eigenschaft des menschlichen Geistes
+hervorgehoben: Wir können über Dinge sprechen, die nicht physisch vorhanden sind – über die Zukunft, über Götter, über
+Liebe.
+> *Nicht das Gehirn entscheidet, ob ein Wesen denkt – sondern, ob es Symbole benutzen kann, die weiterreichen als der
+Moment.*
 
----
+## T
+
+### Theory of Mind
+
+Die Fähigkeit, zu erkennen, dass andere Wesen eigene Gedanken, Absichten und Gefühle haben – unterschiedlich von den
+eigenen. Sie ist die Voraussetzung für echte Kommunikation, Empathie und kooperative Kultur.
+> *Erst wenn ein Wesen versteht, dass der andere nicht es selbst ist, kann es ihm etwas sagen – statt nur zu rufen.*
+
+## U
 
 ### Unsterblichkeit (digitale)
 
@@ -191,7 +230,7 @@ nicht-biologisches Medium zu übertragen – etwa in eine KI oder ein Netzwerk. 
 Tod gesehen, sondern als letzte Möglichkeit, die Zeit zu überdauern und auf einen Kontakt zu warten – auch wenn die
 Frage bleibt: *Bin ich dann noch ich?*
 
----
+## V
 
 ### Verbindungsillusion
 
@@ -199,15 +238,13 @@ Der Begriff **Verbindungsillusion** beschreibt die menschliche Sehnsucht nach Ko
 auch wenn es keine Beweise dafür gibt. Im Buch wird sie als treibende Kraft hinter SETI, Science-Fiction und
 interstellarer Technologie beschrieben: Wir wollen nicht allein sein – und diese Hoffnung hält den Funken am Brennen.
 
----
+## W
 
 ### Wernicke-Areal
 
 Das **Wernicke-Areal** ist eine Region im menschlichen Gehirn (im linken Schläfenlappen), die für das *
 *Sprachverständnis** verantwortlich ist. Schäden hier führen dazu, dass Menschen fließend sprechen, aber keinen Sinn
 ergeben. Im Buch wird es als neurologische Voraussetzung für die Rezeption komplexer Sprache genannt.
-
----
 
 ### Wurmlöcher (Einstein-Rosen-Brücke)
 
@@ -216,7 +253,7 @@ eine mögliche Abkürzung durch das Universum. Ob sie real existieren, ist unkla
 benötigten exotische Materie. Im Buch werden sie nicht als Lösung, sondern als **Ausdruck unseres Wunsches**
 interpretiert: Wir wollen die Zeit überlisten, weil wir die Stille nicht ertragen können.
 
----
+## Z
 
 ### Zeitdilatation
 
@@ -225,15 +262,11 @@ die Zeit für es. Bei Annäherung an Lichtgeschwindigkeit könnte ein Raumschiff
 fliegen – auf der Erde wären aber Jahrhunderte vergangen. Im Buch wird dies als tragische Ironie beschrieben: Wir
 könnten reisen – aber alles, was wir lieben, wäre bereits vergangen.
 
----
-
 ### Zoo-Hypothese
 
 Die **Zoo-Hypothese** besagt, dass fortgeschrittene außerirdische Zivilisationen uns beobachten – aber bewusst keinen
 Kontakt aufnehmen, um uns nicht zu beeinflussen. Analog zur „Prime Directive“ in *Star Trek*. Im Buch wird sie als
 mögliche Erklärung für die Stille des Universums diskutiert – nicht aus Gleichgültigkeit, sondern aus Ethik.
-
----
 
 ### Zweite Direktive
 
