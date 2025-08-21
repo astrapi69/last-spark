@@ -23,7 +23,13 @@ wo bestimmte Bedingungen zusammentreffen.
 
 ### Die Hände der Sprache
 
-<figure> <img src="assets/illustrations/chapter09_hands_of_language.png" alt="Tentakel, Klauen und fremdartige Hände ritzen Symbole in Stein und Sand unter einem fremden Himmel."> <figcaption>Die Hände der Sprache – jedes Organ, das Spuren setzen kann.</figcaption> </figure>
+<figure> 
+<img src="assets/illustrations/chapter09_hands_of_language.jpg" 
+alt="Tentakel, Klauen und fremdartige Hände ritzen Symbole in Stein und Sand unter einem fremden Himmel." /> 
+<figcaption>
+<em>Die Hände der Sprache – jedes Organ, das Spuren setzen kann.</em>
+</figcaption> 
+</figure>
 
 Sprache beginnt nicht im Geist.  
 Sie beginnt im Körper.
@@ -54,7 +60,13 @@ die das Innere nach außen bringen.
 
 ### Der Speicher des Symbols
 
-<figure> <img src="assets/illustrations/chapter09_symbol_memory.png" alt="Ein kosmisches Gehirn aus Sternen und leuchtenden Bahnen, die wie neuronale Verbindungen Symbole formen."> <figcaption>Der Speicher des Symbols – Denken verknüpft Klang, Zeichen und Bedeutung.</figcaption> </figure>
+<figure> 
+<img src="assets/illustrations/chapter09_symbol_memory.jpg" 
+     alt="Ein kosmisches Gehirn aus Sternen und leuchtenden Bahnen, die wie neuronale Verbindungen Symbole formen." /> 
+    <figcaption>
+<em>Der Speicher des Symbols – Denken verknüpft Klang, Zeichen und Bedeutung.</em>
+    </figcaption> 
+</figure>
 
 Ein Laut macht noch keine Sprache.  
 Ein Strich macht noch keine Schrift.
@@ -89,7 +101,13 @@ Erst das Denken verleiht dem Zeichen Gewicht.
 
 ### Warum Schrift mehr ist als Luxus
 
-<figure> <img src="assets/illustrations/chapter09_writing_as_survival.png" alt="Eine fremde Spezies ritzt Symbole in Felswände, während draußen ein Sturm tobt; die Zeichen glühen wie überlebenswichtige Erinnerungen."> <figcaption>Schrift als Notwendigkeit – Wissen festhalten, das überleben muss.</figcaption> </figure>
+<figure> 
+<img src="assets/illustrations/chapter09_writing_as_survival.jpg" 
+alt="Eine fremde Spezies ritzt Symbole in Felswände, während draußen ein Sturm tobt; die Zeichen glühen wie überlebenswichtige Erinnerungen." /> 
+<figcaption>
+<em>Schrift als Notwendigkeit – Wissen festhalten, das überleben muss.</em>
+</figcaption> 
+</figure>
 
 Schrift entsteht nicht aus Neugier.  
 Nicht aus Ästhetik.  
@@ -128,7 +146,13 @@ Entscheidend ist die Funktion:
 
 ### Der Druck, der Intelligenz erzwingt
 
-<figure> <img src="assets/illustrations/chapter09_evolutionary_pressure.png" alt="Eine unwirtliche Alien-Landschaft mit Stürmen und Knappheit; ein kleines intelligentes Wesen schützt Werkzeuge und Zeichen."> <figcaption>Der Druck der Intelligenz – Notwendigkeit erzwingt Denken.</figcaption> </figure>
+<figure> 
+<img src="assets/illustrations/chapter09_evolutionary_pressure.jpg" 
+alt="Eine unwirtliche Alien-Landschaft mit Stürmen und Knappheit; ein kleines intelligentes Wesen schützt Werkzeuge und Zeichen." />
+<figcaption>
+<em>Der Druck der Intelligenz – Notwendigkeit erzwingt Denken.</em>
+</figcaption> 
+</figure>
 
 Denken ist teuer.  
 Es verbraucht Energie.  
@@ -173,7 +197,13 @@ Aber doch.
 
 ### Der Funke ist ein Prinzip
 
-<figure> <img src="assets/illustrations/chapter09_universal_spark.png" alt="Ein goldener Funke springt von der Erde ins All, gespiegelt von Funken, die auf fernen Welten aufleuchten."> <figcaption>Der universelle Funke – ein Prinzip, kein Zufall.</figcaption> </figure>
+<figure> 
+<img src="assets/illustrations/chapter09_universal_spark.jpg" 
+alt="Ein goldener Funke springt von der Erde ins All, gespiegelt von Funken, die auf fernen Welten aufleuchten." /> 
+<figcaption>
+<em>Der universelle Funke – ein Prinzip, kein Zufall.</em>
+</figcaption> 
+</figure>
 
 Wir sind nicht die Krone der Schöpfung.  
 Wir sind ein Beispiel.
