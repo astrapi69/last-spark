@@ -95,7 +95,7 @@ def build_steps(scripts_dir: Path, export_format: str, book_type: str) -> List[T
     Returns the pipeline steps as (script_path, [args...]).
     """
     return [
-        (scripts_dir / "strip_links.py", []),
+        (scripts_dir / "strip_links.py", ["--overwrite", "--report", "--file", "manuscript/front-matter/toc.md"]),
         (scripts_dir / "convert_links_to_plain_text.py", []),
         (
             scripts_dir / "full_export_book.py",
