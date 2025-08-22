@@ -15,13 +15,19 @@ requests = "^2.31.0"
 pillow = "^11.2.1"
 pyyaml = "^6.0.2"
 toml = "^0.10.2"
+ftfy = "^6.3.1"
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.0.0"
+hypothesis = "^6.112"
+pytest = "^8.2"
 pytest-mock = "^3.10.0"
+pytest-cov = "^5.0.0"
 
 [tool.poetry.scripts]
-rename-png-to-jpg = "scripts.rename_png_to_jpg:main"
+bulk-change-ext = "scripts.bulk_change_extension:main"
+convert-images = "scripts.convert_images:main"
+generate-images-deepai = "scripts.generate_images_deepai:main"
+sanitize = "scripts.sanitize:main"
 pandoc-batch = "scripts.pandoc_batch:main"
 clean-git-cache = "scripts.clean_git_cache:main"
 init-book-project = "scripts.init_book_project:main"
@@ -34,11 +40,11 @@ translate-book-lmstudio = "scripts.translate_book_lmstudio:main"
 create-chapters = "scripts.create_chapters:main"
 generate-images = "scripts.generate_images:main"
 inject-images = "scripts.inject_images:main"
-export-comic = "scripts.full_export_comic:main"
 shortcuts-export = "scripts.shortcuts_export:main"
-shortcuts-export-comic = "scripts.shortcuts_export_comic:main"
 shortcuts-init = "scripts.shortcuts_init:main"
 shortcuts-translate = "scripts.shortcuts_translate:main"
+export-comic = "scripts.full_export_comic:main"
+shortcuts-export-comic = "scripts.shortcuts_export_comic:main"
 
 # 🏁 Export Comic Shortcuts
 export-comic-html = "scripts.shortcuts_export_comic:export_comic_html"
@@ -58,13 +64,13 @@ export-pdf = "scripts.shortcuts_export:export_pdf"
 export-p = "scripts.shortcuts_export:export_pdf"
 export-docx = "scripts.shortcuts_export:export_docx"
 export-d = "scripts.shortcuts_export:export_docx"
+export-all-with-cover = "scripts.shortcuts_export:all_formats_with_cover"
 export-print-version-epub = "scripts.shortcuts_export:export_print_version_epub"
 export-pve = "scripts.shortcuts_export:export_print_version_epub"
 export-print-version-paperback = "scripts.shortcuts_export:export_print_version_paperback"
 export-pvp = "scripts.shortcuts_export:export_print_version_paperback"
 export-print-version-hardcover = "scripts.shortcuts_export:export_print_version_hardcover"
 export-pvh = "scripts.shortcuts_export:export_print_version_hardcover"
-export-all-with-cover = "scripts.shortcuts_export:all_formats_with_cover"
 
 # Init Shortcuts
 update-mdv = "scripts.shortcuts_init:run_update_metadata_values"
@@ -88,7 +94,7 @@ translate-de-en = "scripts.shortcuts_translate:translate_manuscript_from_german_
 testpaths = ["tests"]
 
 [build-system]
-requires = [ "poetry-core>=2.0.0,<3.0.0",]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.pandoc_batch]
@@ -103,4 +109,4 @@ verbose = true
 standalone = true
 test_only = false
 patch_md = true
-fix_inplace = true
+fix_inplace = false
