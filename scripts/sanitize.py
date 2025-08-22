@@ -8,7 +8,15 @@ import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
 
-import ftfy
+try:
+    import ftfy
+    _fix_text = ftfy.fix_text
+except Exception:  # ImportError or initialization failure
+    def _fix_text(s: str) -> str:
+        # Minimal fallback: no-op.
+        # Optional: add Unicode normalization, strip BOMs, etc.
+        return s
+
 
 CONTROL_CHARS_RE = re.compile(
     r"[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]"
@@ -41,7 +49,7 @@ class Stats:
 
 def sanitize_markdown(text: str) -> str:
     # 1) Fix mojibake etc.
-    text = ftfy.fix_text(text)
+    text = _fix_text(text)
 
     # 2) Unicode normalization (NFKC tends to be best for plain text)
     text = unicodedata.normalize("NFKC", text)
