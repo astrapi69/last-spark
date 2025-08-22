@@ -1,4 +1,4 @@
-## Kapitel 9: Der universelle Funke – Ein Prinzip, kein Zufall {#chapter-9}
+# Kapitel 9: Der universelle Funke – Ein Prinzip, kein Zufall {#chapter-9}
 
 Wir sind die einzige Spezies auf diesem Planeten, die schreibt.  
 Die einzige, die Bücher hinterlässt,  
@@ -21,7 +21,7 @@ wo bestimmte Bedingungen zusammentreffen.
 
 ---
 
-### Die Hände der Sprache
+## Die Hände der Sprache
 
 <figure> 
 <img src="assets/illustrations/chapter09_hands_of_language.jpg" 
@@ -56,9 +56,7 @@ Die Hände der Sprache sind nicht unsere Hände.
 Sie sind die Organe,  
 die das Innere nach außen bringen.
 
----
-
-### Der Speicher des Symbols
+## Der Speicher des Symbols
 
 <figure> 
 <img src="assets/illustrations/chapter09_symbol_memory.jpg" 
@@ -97,9 +95,7 @@ Ohne diesen Speicher wären unsere Hände blind,
 unsere Stimmen leer.  
 Erst das Denken verleiht dem Zeichen Gewicht.
 
----
-
-### Warum Schrift mehr ist als Luxus
+## Warum Schrift mehr ist als Luxus
 
 <figure> 
 <img src="assets/illustrations/chapter09_writing_as_survival.jpg" 
@@ -142,9 +138,7 @@ Denn die Form der Schrift ist unwichtig.
 Entscheidend ist die Funktion:  
 **Wissen bewahren, das überleben muss.**
 
----
-
-### Der Druck, der Intelligenz erzwingt
+## Der Druck, der Intelligenz erzwingt
 
 <figure> 
 <img src="assets/illustrations/chapter09_evolutionary_pressure.jpg" 
@@ -193,9 +187,7 @@ ein Funke aufflammen.
 Nicht wie wir.  
 Aber doch.
 
----
-
-### Der Funke ist ein Prinzip
+## Der Funke ist ein Prinzip
 
 <figure> 
 <img src="assets/illustrations/chapter09_universal_spark.jpg" 

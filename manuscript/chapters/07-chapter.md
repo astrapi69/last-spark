@@ -1,6 +1,12 @@
-## Kapitel 7: Wenn wir doch gefunden würden {#chapter-7}
+# Kapitel 7: Wenn wir doch gefunden würden {#chapter-7}
 
-![Die Voyager-Sonde im interstellaren Raum](../../assets/illustrations/chapter07_voyager_probe.jpg)
+<figure>
+  <img src="assets/illustrations/chapter07_voyager_probe.jpg"
+       alt="Die Voyager-Sonde im interstellaren Raum" />
+  <figcaption>
+    <em>Die Voyager-Sonde im interstellaren Raum</em>
+  </figcaption>
+</figure>
 
 Stell dir vor, die Erde ist still.  
 Keine Stimmen.  
@@ -23,9 +29,7 @@ Aber da.
 
 In den Dingen, die wir zurückließen.
 
----
-
-### Was bleibt von uns?
+## Was bleibt von uns?
 
 Wenn die Menschheit verschwindet –  
 nicht durch eine Apokalypse, sondern durch langsames Vergehen –  
@@ -38,9 +42,7 @@ Winzige, hartnäckige, unerwartete Spuren.
 
 Und sie könnten eines Tages gefunden werden.
 
----
-
-### Die Archäologie des Kosmos
+## Die Archäologie des Kosmos
 
 Wir denken oft:  
 Wenn wir aussterben, wird niemand wissen, dass wir da waren.
@@ -53,8 +55,6 @@ länger als unsere Zivilisation.
 
 Und sie könnten eines Tages gelesen werden –  
 von Augen, die nicht menschlich sind.
-
----
 
 ### 1. Die Satelliten im Orbit
 
@@ -81,9 +81,13 @@ Vielleicht wird jemand versuchen, die Musik zu hören.
 Und fragen:  
 *„Wer waren diese Wesen, die so viel Schönheit in den Raum warfen?“*
 
----
-
-![Unberührte Fußabdrücke auf dem Mond](../../assets/illustrations/chapter07_moon_footprints.jpg)
+<figure>
+  <img src="assets/illustrations/chapter07_moon_footprints.jpg"
+       alt="Unberührte Fußabdrücke auf dem Mond" />
+  <figcaption>
+    <em>Unberührte Fußabdrücke auf dem Mond</em>
+  </figcaption>
+</figure>
 
 ### 2. Die Spuren auf dem Mond
 
@@ -103,8 +107,6 @@ Diese Spuren könnten **Millionen von Jahren** überdauern.
 
 Wenn jemand kommt, wird er sehen:  
 *„Hier war jemand. Er hat sich bewegt. Er hat gedacht. Er hat versucht, hinauszugehen.“*
-
----
 
 ### 3. Die Plastikschicht im Gestein
 
@@ -127,8 +129,6 @@ Aber auch aus Hoffnung:
 Denn sie beweist, dass wir da waren.  
 Dass wir handelten.  
 Dass wir dachten.
-
----
 
 ### 4. Die Bücher, die niemand liest
 
@@ -155,8 +155,6 @@ sondern **gefühlt** haben.
 Dass wir wussten, dass wir sterben würden –  
 und trotzdem geschrieben haben.
 
----
-
 ### 5. Die Signale im All
 
 Seit 100 Jahren senden wir Radiowellen in den Kosmos.  
@@ -180,9 +178,7 @@ Er wird nicht wissen, wer wir waren.
 Aber er wird wissen:  
 *„Da war jemand, der hoffte, gehört zu werden.“*
 
----
-
-### Was wir wirklich hinterlassen
+## Was wir wirklich hinterlassen
 
 Wir hinterlassen nicht nur Technik.  
 Nicht nur Abfall.  

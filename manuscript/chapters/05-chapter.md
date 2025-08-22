@@ -1,6 +1,12 @@
-## Kapitel 5: Der Zoo und die Beobachter {#chapter-5}
+# Kapitel 5: Der Zoo und die Beobachter {#chapter-5}
 
-![Die Zoo-Hypothese – Beobachter im Orbit](../../assets/illustrations/chapter05_zoo_hypothesis.jpg)
+<figure>
+  <img src="assets/illustrations/chapter05_zoo_hypothesis.jpg"
+       alt="Die Zoo-Hypothese – Beobachter im Orbit" />
+  <figcaption>
+    <em>Die Zoo-Hypothese – Beobachter im Orbit</em>
+  </figcaption>
+</figure>
 
 Stell dir vor, du stehst vor einem Terrarium.  
 Darin leben Wesen, die sich gerade erst zu erkennen beginnen.  
@@ -23,9 +29,7 @@ Du wartest.
 
 Das ist die **Zoo-Hypothese**.
 
----
-
-### Die Stille als Absicht
+## Die Stille als Absicht
 
 Das Fermi-Paradoxon fragt:  
 *„Wo sind sie alle?“*
@@ -42,9 +46,7 @@ Weil Kontakt eine **Zerstörung** wäre.
 Wir sind nicht unsichtbar.  
 Wir sind **nicht reif**.
 
----
-
-### Warum sie uns nicht stören
+## Warum sie uns nicht stören
 
 Es gibt viele Gründe, warum eine Zivilisation, die uns überlegen ist, keinen Kontakt aufnehmen würde:
 
@@ -87,11 +89,15 @@ oder KI-Einheiten, die sich in unserem Netzwerk verstecken.
 Sie lernen uns kennen –  
 ohne dass wir es bemerken.
 
----
+<figure>
+  <img src="assets/illustrations/chapter05_hidden_probe.jpg"
+       alt="Getarnte außerirdische Sonde" />
+  <figcaption>
+    <em>Getarnte außerirdische Sonde</em>
+  </figcaption>
+</figure>
 
-![Getarnte außerirdische Sonde](../../assets/illustrations/chapter05_hidden_probe.jpg)
-
-### Die Ethik des Nicht-Kontakts
+## Die Ethik des Nicht-Kontakts
 
 Wir denken oft:  
 *Wenn jemand kommt, wird er retten.*  
@@ -108,9 +114,7 @@ sondern darin, **nichts zu tun?**
 Die Beobachter könnten uns schützen –  
 indem sie schweigen.
 
----
-
-### Sind wir das Experiment?
+## Sind wir das Experiment?
 
 Vielleicht sind wir kein Zufall.  
 Vielleicht sind wir ein **gezüchtetes System**.  
@@ -129,9 +133,7 @@ Oder:
 Vielleicht ist das Universum voller **geschützter Zonen** –  
 und wir sind eine davon.
 
----
-
-### Die Angst vor der Antwort
+## Die Angst vor der Antwort
 
 Die größte Furcht beim Kontakt ist nicht:  
 *„Was, wenn sie kommen?“*
@@ -149,9 +151,7 @@ und entscheiden:
 Vielleicht ist das Schweigen nicht aus Mangel an Liebe.  
 Sondern aus Mangel an Hoffnung.
 
----
-
-### Aber was, wenn sie uns doch hören?
+## Aber was, wenn sie uns doch hören?
 
 Was, wenn sie unsere Signale empfangen –  
 unsere Musik, unsere Gedichte, unsere Wissenschaft –  

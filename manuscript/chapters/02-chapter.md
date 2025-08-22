@@ -1,6 +1,12 @@
-## Kapitel 2: Intelligenz ist keine Pflicht {#chapter-2}
+# Kapitel 2: Intelligenz ist keine Pflicht {#chapter-2}
 
-![Delfine und ihre Intelligenz](../../assets/illustrations/chapter02_dolphin_intelligence.jpg)
+<figure>
+  <img src="assets/illustrations/chapter02_dolphin_intelligence.jpg"
+       alt="Delfine und ihre Intelligenz" />
+  <figcaption>
+    <em>Delfine und ihre Intelligenz</em>
+  </figcaption>
+</figure>
 
 Es gibt Delfine, die Namen kennen.  
 Elefanten, die trauern.  
@@ -17,9 +23,7 @@ Warum?
 
 Weil **Intelligenz nicht das Ziel der Evolution ist** – sondern nur eine mögliche Nebenwirkung.
 
----
-
-### Der evolutionäre Sonderfall Mensch
+## Der evolutionäre Sonderfall Mensch
 
 Auf der Erde hat es **3,8 Milliarden Jahre Leben** gegeben.  
 Millionen von Arten sind gekommen und gegangen.  
@@ -36,9 +40,7 @@ Er ist ein **emergentes Phänomen** – das Ergebnis einer seltenen Kombination 
 
 Andere Tiere sind intelligent – aber nicht **auf diese Weise**.
 
----
-
-### Was bedeutet „intelligent“?
+## Was bedeutet „intelligent“?
 
 Wir neigen dazu, Intelligenz an **menschlichen Maßstäben** zu messen:  
 Kann es sprechen? Kann es rechnen? Kann es Werkzeuge bauen?
@@ -55,11 +57,15 @@ Aber es ist **nicht symbolisch**.
 
 Und genau das ist der Unterschied.
 
----
+<figure>
+  <img src="assets/illustrations/chapter02_human_evolution.jpg"
+       alt="Menschliche Evolution im Zeitraffer" />
+  <figcaption>
+    <em>Menschliche Evolution im Zeitraffer</em>
+  </figcaption>
+</figure>
 
-![Menschliche Evolution im Zeitraffer](../../assets/illustrations/chapter02_human_evolution.jpg)
-
-### Die drei Säulen des menschlichen Geistes
+## Die drei Säulen des menschlichen Geistes
 
 Was uns von anderen Spezies unterscheidet, ist nicht die **Fähigkeit zu denken** –  
 sondern die **Fähigkeit, Gedanken zu trennen von der Gegenwart**.
@@ -98,9 +104,7 @@ Einige Populationen von **Schimpansen** überliefern einfache Werkzeugtechniken.
 Aber es gibt **keine kulturelle Steigerung**.  
 Kein Tier „baut auf“ dem Wissen eines anderen – es bleibt im **Wimpernschlag der Evolution** stecken.
 
----
-
-### Die Illusion des Fortschritts
+## Die Illusion des Fortschritts
 
 Wir denken oft:  
 *Leben → Komplexität → Intelligenz → Technik → Zivilisation.*
@@ -122,9 +126,7 @@ Sie optimiert für **Überleben**.
 
 Und oft ist **Einfachheit** erfolgreicher als Komplexität.
 
----
-
-### Was fehlt den anderen?
+## Was fehlt den anderen?
 
 Nehmen wir drei viel diskutierte Kandidaten:
 
@@ -158,9 +160,7 @@ aber **nicht in der Lage, eine technische Zivilisation zu gründen**.
 Weil es nicht nur auf **Intelligenz** ankommt –  
 sondern auf die **Kombination aus Biologie, Sozialstruktur und Kultur**.
 
----
-
-### Der Mensch: Ein Zufall aus vielen Faktoren
+## Der Mensch: Ein Zufall aus vielen Faktoren
 
 Der Homo sapiens entstand nicht, weil die Evolution „mehr Intelligenz“ wollte.  
 Er entstand, weil sich eine **seltene Konstellation** ergab:
@@ -177,9 +177,7 @@ Ohne einen dieser Faktoren wäre die Entwicklung **anders verlaufen**.
 Und die Wahrscheinlichkeit, dass **alle zusammen** an einer anderen Stelle im Universum auftreten?  
 Verschwindend gering.
 
----
-
-### Fazit: Intelligenz ist kein Ziel – sondern ein Zufall
+## Fazit: Intelligenz ist kein Ziel – sondern ein Zufall
 
 Das Universum ist voller Leben – vielleicht.  
 Aber es ist **nicht voller Denker**.

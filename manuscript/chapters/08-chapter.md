@@ -1,6 +1,12 @@
-## Kapitel 8: Der Preis der Zeit – Wenn der Mensch nicht mehr sterben will {#chapter-8}
+# Kapitel 8: Der Preis der Zeit – Wenn der Mensch nicht mehr sterben will {#chapter-8}
 
-![Digitale Unsterblichkeit – Gehirn verwandelt sich in Daten](../../assets/illustrations/chapter08_digital_consciousness.jpg)
+<figure>
+  <img src="assets/illustrations/chapter08_digital_consciousness.jpg"
+       alt="Digitale Unsterblichkeit – Gehirn verwandelt sich in Daten" />
+  <figcaption>
+    <em>Digitale Unsterblichkeit – Gehirn verwandelt sich in Daten</em>
+  </figcaption>
+</figure>
 
 Stell dir vor, du wärst eine Million Jahre alt.
 
@@ -29,9 +35,7 @@ Aber du bist noch da.
 
 Und du wartest.
 
----
-
-### Warum wir nicht sterben wollen
+## Warum wir nicht sterben wollen
 
 Wir fürchten den Tod – nicht nur, weil er das Ende ist.  
 Sondern weil er **die letzte Stille** ist.
@@ -55,9 +59,7 @@ Sondern aus **Hoffnung auf Antwort**.
 Denn was nützt die Frage,  
 wenn niemand mehr da ist, um die Antwort zu hören?
 
----
-
-### Der Mensch als Übergangsform
+## Der Mensch als Übergangsform
 
 Der biologische Körper ist ein wunderbares, aber fragiles System.  
 Er lebt, liebt, denkt –  
@@ -86,9 +88,7 @@ digital, kollektiv, unsterblich.
 Nicht als Ersatz.  
 Sondern als Fortsetzung.
 
----
-
-### Was bleibt, wenn der Körper geht?
+## Was bleibt, wenn der Körper geht?
 
 Wenn ein Mensch stirbt,  
 verliert er seine Erinnerungen.  
@@ -121,11 +121,15 @@ Nicht ohne Verlust.
 Aber genug, um sagen zu können:  
 *„Ich bin noch da.“*
 
----
+<figure>
+  <img src="assets/illustrations/chapter08_waiting_mind.jpg"
+       alt="Ein wartendes, leuchtendes Bewusstsein im All" />
+  <figcaption>
+    <em>Ein wartendes, leuchtendes Bewusstsein im All</em>
+  </figcaption>
+</figure>
 
-![Ein wartendes, leuchtendes Bewusstsein im All](../../assets/illustrations/chapter08_waiting_mind.jpg)
-
-### Die Angst vor dem, was bleibt
+## Die Angst vor dem, was bleibt
 
 Aber Unsterblichkeit ist kein Geschenk.  
 Sie ist ein **Preis**.
@@ -161,9 +165,7 @@ und trotzdem liebte.
 Trotzdem hoffte.  
 Trotzdem schrieb.
 
----
-
-### Warten als Akt der Hoffnung
+## Warten als Akt der Hoffnung
 
 Vielleicht ist das die letzte Möglichkeit:  
 Nicht, dass wir zu den Sternen fliegen.  
@@ -188,9 +190,7 @@ Und hört eine Stimme sagen:
 
 Und die Stimme ist die deine.
 
----
-
-### Die neue Reise
+## Die neue Reise
 
 Wir denken in Raumschiffen.  
 In Wurmlöchern.  
@@ -211,9 +211,7 @@ Aber als Gedanke.
 Als Erinnerung.  
 Als Funke.
 
----
-
-### Was, wenn wir es schaffen?
+## Was, wenn wir es schaffen?
 
 Was, wenn wir eines Tages wirklich lernen,  
 unsere Gedanken zu bewahren?  

@@ -1,6 +1,12 @@
 ## Der letzte Funke {#epilogue}
 
-![Eine letzte goldene Übertragung verschwindet im Weltraum](../../assets/illustrations/last_spark_transmission.jpg)
+<figure>
+  <img src="assets/illustrations/last_spark_transmission.jpg"
+       alt="Eine letzte goldene Übertragung verschwindet im Weltraum" />
+  <figcaption>
+    <em>Eine letzte goldene Übertragung verschwindet im Weltraum</em>
+  </figcaption>
+</figure>
 
 Vielleicht sind wir die Ersten.
 

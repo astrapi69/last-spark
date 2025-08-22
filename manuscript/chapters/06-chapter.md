@@ -1,10 +1,16 @@
-## Kapitel 6: Der Wunsch zu überleben {#chapter-6}
+# Kapitel 6: Der Wunsch zu überleben {#chapter-6}
 
-![Klimakollaps in einer Megastadt](../../assets/illustrations/chapter06_climate_collapse.jpg)
+<figure>
+  <img src="assets/illustrations/chapter06_climate_collapse.jpg"
+       alt="Klimakollaps in einer Megastadt" />
+  <figcaption>
+    <em>Klimakollaps in einer Megastadt</em>
+  </figcaption>
+</figure>
 
 Es gibt zwei Arten, aus dem Universum zu verschwinden.
 
-Die erste:  
+Die erste:
 Ein Asteroid schlägt ein.  
 Ein Supervulkan bricht aus.  
 Eine kosmische Strahlungswolke löscht das Leben aus.  
@@ -26,9 +32,7 @@ Denn wir sind nicht nur die einzige Spezies, die fragt:
 Wir sind auch die einzige, die fragen könnte:  
 *„Warum haben wir uns nicht gerettet?“*
 
----
-
-### Der Große Filter – sind wir davor oder danach?
+## Der Große Filter – sind wir davor oder danach?
 
 Im Jahr 1950 fragte Enrico Fermi:  
 *„Where are they all?“*  
@@ -56,9 +60,7 @@ Und alle anderen Zivilisationen, die so weit kamen wie wir,
 sind an demselben Punkt gescheitert:  
 Wenn Technologie schneller wächst als Weisheit.
 
----
-
-### Die Gefahren, die wir selbst gebaut haben
+## Die Gefahren, die wir selbst gebaut haben
 
 Wir leben in einer Zeit, in der die **größten Bedrohungen nicht von außen kommen**,  
 sondern aus unseren eigenen Erfindungen.
@@ -91,11 +93,15 @@ sondern aus unseren eigenen Erfindungen.
 - Hass, Verschwörung, Gier – sie brechen die Kooperation,  
   die einst unsere größte Stärke war
 
----
+<figure>
+  <img src="assets/illustrations/chapter06_ai_control.jpg"
+       alt="Futuristischer KI-Kontrollraum" />
+  <figcaption>
+    <em>Futuristischer KI-Kontrollraum</em>
+  </figcaption>
+</figure>
 
-![Futuristischer KI-Kontrollraum](../../assets/illustrations/chapter06_ai_control.jpg)
-
-### Warum der Filter wahrscheinlich vor uns liegt
+## Warum der Filter wahrscheinlich vor uns liegt
 
 Stell dir vor, das Universum wäre voller Zivilisationen.  
 Millionen. Milliarden.  
@@ -118,9 +124,7 @@ Die Stille des Kosmos könnte ein **Grabstein** sein –
 für alle, die so weit kamen wie wir –  
 und nicht weitergingen.
 
----
-
-### Die erste Voraussetzung für Kontakt
+## Die erste Voraussetzung für Kontakt
 
 Bevor wir nach Wurmlöchern suchen,  
 bevor wir Signale senden,  
@@ -147,9 +151,7 @@ Als **Beweis, dass man nicht allein sein muss**.
 Das Überleben der Menschheit ist keine Selbstverständlichkeit.  
 Es ist die **erste und wichtigste ethische Aufgabe**.
 
----
-
-### Was Überleben heute bedeutet
+## Was Überleben heute bedeutet
 
 Überleben heißt nicht:  
 - Unsterblichkeit

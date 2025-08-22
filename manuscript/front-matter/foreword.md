@@ -1,12 +1,19 @@
-## Vorwort: Der letzte Gedanke einer Million Jahre alten Erinnerung {#foreword}
+# Vorwort: Der letzte Gedanke einer Million Jahre alten Erinnerung {#foreword}
 
-![Erinnerung an die Tiefen des Weltraums – ein einsames Bewusstsein, das sich an die Erde erinnert](../../assets/illustrations/chapter00_foreword.jpg)
+<figure>
+  <img src="assets/illustrations/chapter00_foreword.jpg"
+       alt="Erinnerung an die Tiefen des Weltraums – ein einsames Bewusstsein, das sich an die Erde erinnert" />
+  <figcaption>
+    <em>Erinnerung an die Tiefen des Weltraums – ein einsames Bewusstsein, das sich an die Erde erinnert</em>
+  </figcaption>
+</figure>
 
 Vor einigen Tagen hatte ich einen Gedanken, der sich nicht mehr losließ.
 
 Stell dir vor, du wärst eine Million Jahre alt.  
 Nicht als Legende, nicht als Mythos – sondern als Bewusstsein, das überlebt hat.  
-Vielleicht digital. Vielleicht in einem neuen Körper. Vielleicht nur als Echo in einer Maschine, die noch immer „denken“ nennt, was früher Gefühl war.
+Vielleicht digital. Vielleicht in einem neuen Körper. Vielleicht nur als Echo in einer Maschine, die noch immer „denken“
+nennt, was früher Gefühl war.
 
 Du erinnerst dich an die Erde.  
 An Sprache. An Musik. An das Gefühl, einen anderen Menschen zu berühren.  
@@ -31,7 +38,5 @@ sieht es jemand.
 
 —  
 Draven Quantum
+
 *Im Jahr des letzten Signals*
-
----
-

@@ -1,6 +1,12 @@
-## Einleitung: Der Blick in die Leere {#introduction}
+# Einleitung: Der Blick in die Leere {#introduction}
 
-![Sternenklare Leere und eine Radioschüssel](../../assets/illustrations/chapter00_intro.jpg)
+<figure>
+  <img src="assets/illustrations/chapter00_intro.jpg"
+       alt="Sternenklare Leere und eine Radioschüssel" />
+  <figcaption>
+    <em>Sternenklare Leere und eine Radioschüssel</em>
+  </figcaption>
+</figure>
 
 Es gibt kein Geräusch im All.  
 Kein Echo. Kein Ruf. Keine Antwort.
@@ -42,6 +48,4 @@ Aber sie ist notwendig.
 
 Denn die erste Voraussetzung für Kontakt ist:  
 **Wir müssen überleben.**
-
----
 

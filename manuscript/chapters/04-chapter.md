@@ -1,6 +1,12 @@
-## Kapitel 4: Wurmlöcher, Warp und Wunschmaschinen {#chapter-4}
+# Kapitel 4: Wurmlöcher, Warp und Wunschmaschinen {#chapter-4}
 
-![Ein gewaltiges Wurmloch im All](../../assets/illustrations/chapter04_wormhole.jpg)
+<figure>
+  <img src="assets/illustrations/chapter04_wormhole.jpg"
+       alt="Ein gewaltiges Wurmloch im All" />
+  <figcaption>
+    <em>Ein gewaltiges Wurmloch im All</em>
+  </figcaption>
+</figure>
 
 Wir können nicht schneller als Licht reisen.
 
@@ -28,9 +34,7 @@ Also träumen wir von Dingen, die die Naturgesetze zu umgehen scheinen:
 Nicht, weil wir die Wissenschaft ignorieren.  
 Sondern weil wir die **Stille** nicht ertragen können.
 
----
-
-### Was die Physik heute sagt
+## Was die Physik heute sagt
 
 Die Relativitätstheorie von Albert Einstein hat zwei Dinge gelehrt:
 
@@ -69,9 +73,7 @@ Auch hier:
 Die Physik sagt also nicht: *„Unmöglich.“*  
 Sie sagt: *„Nicht mit unserem Wissen.“*
 
----
-
-### Warum wir diese Träume brauchen
+## Warum wir diese Träume brauchen
 
 Die Sehnsucht nach Überlichtgeschwindigkeit ist **kein technisches Problem**.  
 Sie ist ein **existenzielles Dilemma**.
@@ -99,9 +101,15 @@ bevor die Antwort sinnlos wird.
 
 ---
 
-![Warp-Antrieb verzerrt die Raumzeit](../../assets/illustrations/chapter04_warp_drive.jpg)
+<figure>
+  <img src="assets/illustrations/chapter04_warp_drive.jpg"
+       alt="Warp-Antrieb verzerrt die Raumzeit" />
+  <figcaption>
+    <em>Warp-Antrieb verzerrt die Raumzeit</em>
+  </figcaption>
+</figure>
 
-### Die Zeitmaschine, die wir nie bauen werden
+## Die Zeitmaschine, die wir nie bauen werden
 
 Zeitreisen in die **Vergangenheit** gelten als praktisch unmöglich.  
 Sie verletzen Kausalität.  
@@ -128,9 +136,7 @@ Wir wollen eine, um **nicht zu verlieren**.
 Um zu warten, bis jemand kommt.  
 Um zu sagen: *„Ich war noch da.“*
 
----
-
-### Die wahre Technologie: Hoffnung
+## Die wahre Technologie: Hoffnung
 
 Wir werden vielleicht nie ein Wurmloch öffnen.  
 Vielleicht wird der Warp-Antrieb für immer eine Gleichung bleiben.  

@@ -1,6 +1,12 @@
-## Kapitel 1: Kosmische Statistik – Warum Leben möglich ist {#chapter-1}
+# Kapitel 1: Kosmische Statistik – Warum Leben möglich ist {#chapter-1}
 
-![Milchstraße mit Ansammlungen bewohnbarer Welten](../../assets/illustrations/chapter01_habitable_worlds.jpg)
+<figure>
+  <img src="assets/illustrations/chapter01_habitable_worlds.jpg"
+       alt="Milchstraße mit Ansammlungen bewohnbarer Welten" />
+  <figcaption>
+    <em>Milchstraße mit Ansammlungen bewohnbarer Welten</em>
+  </figcaption>
+</figure>
 
 Es gibt etwa **200 Milliarden Sterne** in unserer Galaxie, der Milchstraße.  
 Zwei Billionen Galaxien im beobachtbaren Universum.  
@@ -23,7 +29,7 @@ Das ist das **Fermi-Paradoxon**.
 Nicht eine Frage der Physik.  
 Sondern eine der **Stille**.
 
-### Was sagt die Statistik?
+## Was sagt die Statistik?
 
 Die Wahrscheinlichkeit, dass **Leben** entsteht, scheint nicht gering zu sein.
 
@@ -45,7 +51,7 @@ Es ist eine **natürliche Folge** der Physik und Chemie unter den richtigen Bedi
 Aber:  
 **Intelligentes, technisches Leben** ist etwas anderes.
 
-### Die Illusion der Notwendigkeit
+## Die Illusion der Notwendigkeit
 
 Wir neigen dazu, zu glauben, dass die Evolution **zur Intelligenz führen muss**.  
 Dass Leben „höher“ wird.  
@@ -72,7 +78,7 @@ Die Statistik lügt nicht:
 **Leben ist wahrscheinlich.**  
 **Intelligenz ist ein Ausreißer.**
 
-### Die Drake-Gleichung – ein Versuch, das Unfassbare zu berechnen
+## Die Drake-Gleichung – ein Versuch, das Unfassbare zu berechnen
 
 1961 stellte der Astronom Frank Drake eine Formel auf, um abzuschätzen, wie viele **kommunizierende Zivilisationen** es
 in unserer Galaxie geben könnte:
@@ -96,7 +102,7 @@ könnte es in der ganzen Milchstraße **nur uns geben** – selbst wenn Leben h�
 
 Weil wir uns **selbst auslöschen**, bevor jemand anderes uns hört.
 
-### Die Stille als Antwort
+## Die Stille als Antwort
 
 Die Tatsache, dass wir **keine Signale empfangen**, ist keine Niederlage.  
 Sie ist eine **Information**.
@@ -133,8 +139,12 @@ Aber nur, wenn wir **noch da sind**, wenn die Antwort kommt.
 > **„Das Universum ist groß genug für Millionen von Zivilisationen.  
 > Aber es ist auch groß genug, um jeden einzelnen Funken darin verschwinden zu lassen.“**
 
----
-
-![Expandierende Hülle früher Radioemissionen](../../assets/illustrations/chapter01_signal_in_the_void.jpg)
+<figure>
+  <img src="assets/illustrations/chapter01_signal_in_the_void.jpg"
+       alt="Expandierende Hülle früher Radioemissionen" />
+  <figcaption>
+    <em>Expandierende Hülle früher Radioemissionen</em>
+  </figcaption>
+</figure>
 
 *Und wenn wir nicht mehr sind – wer wird dann je erfahren, dass wir gesprochen haben?*

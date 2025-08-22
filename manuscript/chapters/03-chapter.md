@@ -1,7 +1,12 @@
-## Kapitel 3: Zeit – Der Feind aller Begegnung {#chapter-3}
+# Kapitel 3: Zeit – Der Feind aller Begegnung {#chapter-3}
 
-![Ausbreitung von Funksignalen im All](../../assets/illustrations/chapter03_signals_in_time.jpg)
-
+<figure>
+  <img src="assets/illustrations/chapter03_signals_in_time.jpg"
+       alt="Ausbreitung von Funksignalen im All" />
+  <figcaption>
+    <em>Ausbreitung von Funksignalen im All</em>
+  </figcaption>
+</figure>
 
 Stell dir vor, du stehst am Strand eines endlosen Ozeans.  
 In der Ferne siehst du einen Lichtpunkt – ein Schiff.  
@@ -17,9 +22,7 @@ Aber **verzögert**.
 
 Und die Verzögerung heißt: **Zeit**.
 
----
-
-### Das Kommunikationsfenster – ein Wimpernschlag
+## Das Kommunikationsfenster – ein Wimpernschlag
 
 Die Menschheit sendet seit etwa **100 Jahren** Radiowellen in den Kosmos.  
 Eine dünne Blase aus Musik, Nachrichten, Werbung und Wissenschaft dehnt sich von der Erde aus –  
@@ -48,11 +51,15 @@ Wir sind wie zwei Funken,
 die in einem dunklen Raum aufflammen –  
 aber nie zur selben Zeit.
 
----
+<figure>
+  <img src="assets/illustrations/chapter03_lost_ships.jpg"
+       alt="Verlassenes Raumschiff treibt im Weltraum" />
+  <figcaption>
+    <em>Verlassenes Raumschiff treibt im Weltraum</em>
+  </figcaption>
+</figure>
 
-![Verlassenes Raumschiff treibt im Weltraum](../../assets/illustrations/chapter03_lost_ships.jpg)
-
-### Warum Zeit stärker ist als Raum
+## Warum Zeit stärker ist als Raum
 
 Wir denken in Entfernungen:  
 *„Proxima Centauri ist 4,24 Lichtjahre entfernt.“*  
@@ -82,9 +89,7 @@ sie ist eine Reise durch die **Vergangenheit**.
 Und wir können nie wissen, ob das, wonach wir suchen,  
 noch da ist, wenn wir ankommen.
 
----
-
-### Die Illusion der Gleichzeitigkeit
+## Die Illusion der Gleichzeitigkeit
 
 Wir wünschen uns Kontakt.  
 Aber Kontakt setzt **Gleichzeitigkeit** voraus.
@@ -105,9 +110,7 @@ ein Satellit, ein Mondlandeplatz, ein Buch, das keiner mehr liest.
 Die Zeit ist kein Hindernis, das man überwinden kann.  
 Sie ist eine **Trennwand zwischen den Lebenden**.
 
----
-
-### Warum wir uns ewig verfehlen könnten
+## Warum wir uns ewig verfehlen könnten
 
 Nehmen wir an, es gibt **100 technische Zivilisationen** in der Milchstraße.  
 Jede existiert im Schnitt **1.000 Jahre lang** –  
@@ -132,9 +135,7 @@ Wir hoffen.
 
 Weil die Alternative unerträglich ist.
 
----
-
-### Die Sehnsucht nach Reisen – und warum wir sie brauchen
+## Die Sehnsucht nach Reisen – und warum wir sie brauchen
 
 Wir träumen von **Wurmlöchern**.  
 Von **Warp-Antrieben**.  
@@ -158,9 +159,7 @@ oder noch nicht geboren wurde.
 Wir wollen nicht nur reisen.  
 Wir wollen **nicht allein gewesen sein**.
 
----
-
-### Die Tragödie der Ankunft
+## Die Tragödie der Ankunft
 
 Stell dir vor, eine Zivilisation entdeckt uns.  
 Sie baut ein Schiff.  
