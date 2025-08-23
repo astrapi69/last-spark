@@ -126,9 +126,7 @@ def test_generate_image_missing_output_url(tmp_path, caplog):
     assert ok is False
     assert "missing output_url" in caplog.text
 
-import os
-@pytest.mark.skipif("DEEPAI_API_KEY" not in os.environ,
-                    reason="requires API key in environment")
+
 def test_make_config_requires_api_key(monkeypatch, tmp_path, caplog):
     caplog.set_level("ERROR")
     # ensure no env var
