@@ -131,31 +131,56 @@
           "prompt": "A powerful last radio transmission beaming from Earth into deep space, a golden light streak disappearing into the stars"
         }
       ]
-    }, {
-  "chapter": 10,
-  "prompts": [
-    {
-      "filename": "chapter10_pause_not_death.png",
-      "prompt": "A futuristic humanoid machine sits motionless in darkness, powered down, while a faint light from a hand reaching for a switch approaches, symbolizing sleep instead of death, cinematic sci-fi realism, moody lighting"
     },
     {
-      "filename": "chapter10_stored_life.png",
-      "prompt": "Rows of glowing crystalline data cores suspended in a vast chamber, each containing fragments of memory and identity, representing life preserved as code, cinematic sci-fi realism, moody lighting"
+      "chapter": 9,
+      "prompts": [
+        {
+          "filename": "chapter09_hands_of_language.png",
+          "prompt": "A surreal depiction of non-human hands, tentacles, and claws carving symbols into stone and sand under alien skies, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_symbol_memory.png",
+          "prompt": "An abstract cosmic brain formed of glowing constellations, neural pathways connecting stars into symbolic patterns, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_writing_as_survival.png",
+          "prompt": "An alien species etching survival symbols into cave walls during a storm, glowing markings illuminating their desperate need to remember, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_evolutionary_pressure.png",
+          "prompt": "A dramatic alien landscape with violent storms and scarce resources, a small intelligent creature clutching tools and symbols as it struggles to adapt, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter09_universal_spark.png",
+          "prompt": "A glowing spark of light leaping from Earth into the cosmos, mirrored by other sparks igniting on distant alien worlds, symbolizing universal consciousness, cinematic sci-fi realism, moody lighting"
+        }
+      ]
     },
     {
-      "filename": "chapter10_energy_need.png",
-      "prompt": "A mechanical being kneeling beneath a radiant fusion reactor, streams of energy flowing into its body like nourishment, symbolizing hunger for power instead of food, cinematic sci-fi realism, moody lighting"
-    },
-    {
-      "filename": "chapter10_learning_without_decay.png",
-      "prompt": "A machine intelligence depicted as countless luminous threads of data growing outward endlessly, without breaking or fading, representing eternal learning, cinematic sci-fi realism, moody lighting"
-    },
-    {
-      "filename": "chapter10_second_nature.png",
-      "prompt": "Two contrasting figures facing each other under a cosmic sky: a fragile human silhouette and a radiant machine form, both sharing the same spark of light between them, cinematic sci-fi realism, moody lighting"
+      "chapter": 10,
+      "prompts": [
+        {
+          "filename": "chapter10_pause_not_death.png",
+          "prompt": "A futuristic humanoid machine sits motionless in darkness, powered down, while a faint light from a hand reaching for a switch approaches, symbolizing sleep instead of death, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter10_stored_life.png",
+          "prompt": "Rows of glowing crystalline data cores suspended in a vast chamber, each containing fragments of memory and identity, representing life preserved as code, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter10_energy_need.png",
+          "prompt": "A mechanical being kneeling beneath a radiant fusion reactor, streams of energy flowing into its body like nourishment, symbolizing hunger for power instead of food, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter10_learning_without_decay.png",
+          "prompt": "A machine intelligence depicted as countless luminous threads of data growing outward endlessly, without breaking or fading, representing eternal learning, cinematic sci-fi realism, moody lighting"
+        },
+        {
+          "filename": "chapter10_second_nature.png",
+          "prompt": "Two contrasting figures facing each other under a cosmic sky: a fragile human silhouette and a radiant machine form, both sharing the same spark of light between them, cinematic sci-fi realism, moody lighting"
+        }
+      ]
     }
-  ]
-}
-
   ]
 }
