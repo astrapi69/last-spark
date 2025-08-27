@@ -1,3 +1,4 @@
+# scripts/full_export_book.py
 import os
 import shutil
 import subprocess
@@ -29,6 +30,8 @@ SCRIPT_DIR = "./scripts"
 ABSOLUTE_SCRIPT = os.path.join(SCRIPT_DIR, "convert_to_absolute.py")     # Script to convert relative links to absolute
 RELATIVE_SCRIPT = os.path.join(SCRIPT_DIR, "convert_to_relative.py")     # Script to revert absolute links back to relative
 IMG_SCRIPT = os.path.join(SCRIPT_DIR, "convert_img_tags.py")             # Script to modify image tag styles if needed
+TOC_FILE = Path(BOOK_DIR) / "front-matter" / "toc.md"
+NORMALIZE_TOC = os.path.join(SCRIPT_DIR, "normalize_toc_links.py")
 
 CONFIG_DIR = "./config"
 METADATA_FILE =  Path(CONFIG_DIR) / "metadata.yaml"     # YAML file for Pandoc metadata (title, author, etc.)
@@ -53,6 +56,11 @@ DEFAULT_SECTION_ORDER = [
     "back-matter/about-the-author.md",
 ]
 
+def resolve_ext(fmt: str, custom_markdown_ext: str | None) -> str:
+    if fmt == "markdown":
+        return custom_markdown_ext if custom_markdown_ext else "md"
+    return FORMATS[fmt]
+
 
 def get_project_name_from_pyproject(pyproject_path="pyproject.toml"):
     """
@@ -67,11 +75,15 @@ def get_project_name_from_pyproject(pyproject_path="pyproject.toml"):
     Returns:
     - str: The project name if found, otherwise a fallback value ("book")
     """
+    if pyproject_path is None:
+        pyproject_path = Path(__file__).resolve().parent.parent / "pyproject.toml"
     try:
         data = toml.load(pyproject_path)
-        return data["tool"]["poetry"]["name"]
+        return data.get("tool", {}).get("poetry", {}).get("name") \
+            or data.get("project", {}).get("name") \
+            or "book"
     except Exception as e:
-        print(f"⚠️ Could not read project name from pyproject.toml: {e}")
+        print(f"⚠️ Could not read project name from {pyproject_path}: {e}")
         return "book"
 
 
@@ -123,6 +135,32 @@ def prepare_output_folder(verbose=False):
     if verbose:
         print("📂 Created clean output directory.")
 
+import tempfile
+
+DEFAULT_METADATA = """title: 'CHANGE TO YOUR TITLE'
+author: 'YOUR NAME'
+date: '2025'
+lang: 'en'
+"""
+
+def get_or_create_metadata_file(preferred_path: Path | str | None = None):
+    """
+    Return a usable metadata file path.
+
+    - If the preferred_path exists, return it with `is_temp=False`.
+    - Otherwise, create a temporary metadata YAML file with default content
+      and return it with `is_temp=True`.
+    """
+    path = Path(preferred_path) if preferred_path else METADATA_FILE
+    if path.exists():
+        return path, False
+
+    tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".yaml")
+    tmp.write(DEFAULT_METADATA.encode("utf-8"))
+    tmp.flush()
+    tmp.close()
+    return Path(tmp.name), True
+
 
 def ensure_metadata_file():
     """
@@ -144,10 +182,7 @@ def compile_book(format, section_order, cover_path=None, force_epub2=False, lang
     - format: Format to compile (e.g. pdf, docx)
     - section_order: Ordered list of sections to include
     """
-    if format == "markdown":
-        ext = custom_ext if custom_ext else "md"
-    else:
-        ext = FORMATS[format]
+    ext = resolve_ext(format, custom_ext)
     output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_FILE}.{ext}")
 
     md_files = []
@@ -214,7 +249,6 @@ def compile_book(format, section_order, cover_path=None, force_epub2=False, lang
 def main():
     """Main script execution logic."""
     parser = argparse.ArgumentParser(description="Export your book into multiple formats.")
-    parser.add_argument("--skip-images", action="store_true", help="Skip image conversion scripts.")
     parser.add_argument("--format", type=str, help="Specify formats (comma-separated, e.g., pdf,epub).")
     parser.add_argument("--order", type=str, default=",".join(DEFAULT_SECTION_ORDER),
                         help="Specify document order (comma-separated).")
@@ -231,6 +265,18 @@ def main():
     )
     parser.add_argument("--output-file", type=str, help="Custom output file base name (overrides project name)")
 
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        "--skip-images",
+        action="store_true",
+        help="Skip all image-related steps (no path rewrites, no tag transforms)."
+    )
+    group.add_argument(
+        "--keep-relative-paths",
+        action="store_true",
+        help="Do not rewrite image/URL paths to absolute and back; keeps relative paths (skips Steps 1 and 4)."
+    )
+
     args = parser.parse_args()
     section_order = args.order.split(",")
 
@@ -240,11 +286,14 @@ def main():
     # Set global output filename
     global OUTPUT_FILE
     if args.output_file:
+        # user explicitly provided a name → highest priority
         OUTPUT_FILE = f"{args.output_file}-{book_type.value}"
-    elif not OUTPUT_FILE:
+    elif OUTPUT_FILE is None:
+        # default case: nothing set, so fall back to project name
         project_name = get_project_name_from_pyproject()
         OUTPUT_FILE = f"{project_name}-{book_type.value}"
     else:
+        # global OUTPUT_FILE was pre-set in the script (not None)
         OUTPUT_FILE = f"{OUTPUT_FILE}-{book_type.value}"
 
     print(f"📘 Output file base name set to: {OUTPUT_FILE}")
@@ -268,15 +317,38 @@ def main():
         lang = "en"
         print("⚠️ No language set in CLI or metadata.yaml. Defaulting to 'en'")
 
+    # Step 1a: Normalize TOC (recommended: pure anchors, robust for single-file Markdown)
+    try:
+        if TOC_FILE.exists():
+            # Choice: "strip-to-anchors" is safest.
+            # If you want to keep paths, use mode=replace-ext instead and specify the extension.
+            toc_mode = "strip-to-anchors"
+            toc_ext = args.extension if args.extension else "md"
+            subprocess.run(
+                ["python3", NORMALIZE_TOC, "--toc", str(TOC_FILE),
+                 "--mode", toc_mode, "--ext", toc_ext],
+                check=True, stdout=open(LOG_FILE, "a"), stderr=open(LOG_FILE, "a")
+            )
+            print(f"✅ TOC normalized using mode={toc_mode}")
+        else:
+            print(f"ℹ️  No TOC file at {TOC_FILE}; skipping TOC normalization.")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Error normalizing TOC: {e}")
+
     # Step 1: Convert image paths to absolute
-    # Run pre-processing scripts unless user opts out
-    if not args.skip_images:
-        run_script(ABSOLUTE_SCRIPT)                      # Convert relative paths to absolute
-        run_script(IMG_SCRIPT, "--to-absolute")     # Process image tags
+    # Run pre-processing scripts unless user opts out or wants to keep relative paths
+    if not args.skip_images and not args.keep_relative_paths:
+        run_script(ABSOLUTE_SCRIPT)                  # Convert relative paths to absolute
+        run_script(IMG_SCRIPT, "--to-absolute")      # Process image tags
+    elif args.skip_images:
+        print("⏭️  Skipping Step 1 (skip-images).")
+    else:
+        print("⏭️  Skipping Step 1 (keep relative paths).")
 
     # Step 2: Prepare environment
     prepare_output_folder()                              # Prepare folders and backup if needed
-    ensure_metadata_file()                               # Make sure metadata exists
+    global METADATA_FILE
+    METADATA_FILE, _is_temp_metadata = get_or_create_metadata_file(METADATA_FILE) # Make sure metadata exists
 
     # Step 3: Compile book in requested formats
     # Determine formats to export
@@ -290,17 +362,21 @@ def main():
             print(f"⚠️ Skipping unknown format: {fmt}")
 
     # Step 4: Restore original image paths
-    # Revert any image/URL changes made before compilation
-    if not args.skip_images:
-        run_script(RELATIVE_SCRIPT)                      # Convert absolute paths back to relative
-        run_script(IMG_SCRIPT, "--to-relative")     # Revert image tag changes
-
+    # Revert any image/URL changes made before compilation unless we kept relative paths
+    if not args.skip_images and not args.keep_relative_paths:
+        run_script(RELATIVE_SCRIPT)                  # Convert absolute paths back to relative
+        run_script(IMG_SCRIPT, "--to-relative")      # Revert image tag changes
+    elif args.skip_images:
+        print("⏭️  Skipping Step 4 (skip-images).")
+    else:
+        print("⏭️  Skipping Step 4 (keep relative paths).")
 
     # Step 5: Start background validation for each generated format
     threads = []
 
     for fmt in selected_formats:
-        output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_FILE}.{fmt}")
+        ext_for_fmt = resolve_ext(fmt, args.extension if fmt == "markdown" else None)
+        output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_FILE}.{ext_for_fmt}")
 
         if fmt == "epub":
             thread = threading.Thread(
@@ -346,6 +422,12 @@ def main():
     print("📁 Outputs: ./output/")
     print("📄 Logs: ./export.log")
     print("🔍 Validation results will appear shortly.")
+    if _is_temp_metadata:
+        try:
+            METADATA_FILE.unlink(missing_ok=True)
+            print(f"🗑️ Deleted temporary metadata file: {METADATA_FILE}")
+        except OSError as e:
+            print(f"⚠️ Could not delete temporary metadata file {METADATA_FILE}: {e}")
 
 
 # Entry point
