@@ -1,9 +1,9 @@
 Warum sind wir die einzige Spezies, die sprechen, denken und schreiben kann?  
-Und wenn wir die Ersten im Universum sind –  
+Und wenn wir die Ersten im Universum sind   
 sind wir dann auch die Letzten?
 
 Dieses Buch ist keine Science-Fiction.  
-Es ist eine Reise durch die Statistik, die Physik, die Biologie –  
+Es ist eine Reise durch die Statistik, die Physik, die Biologie   
 und die zarte Hoffnung, dass irgendwo da draußen jemand ist,  
 der noch lauscht.
 
@@ -11,7 +11,7 @@ Es fragt nicht nur, ob es andere geben könnte.
 Sondern:  
 Würden sie kommen?  
 Würden wir noch da sein?  
-Und wenn nicht –  
+Und wenn nicht   
 was bleibt von uns?
 
 Ein Buch über die Stille des Kosmos.  
