@@ -136,6 +136,14 @@ potenziellen Nachbarn.
 
 > *Wir senden. Wir lauschen. Aber die Zeit ist kein Hindernis – sie ist die Trennwand zwischen den Lebenden.*
 
+### Kopierbarkeit
+
+Die Eigenschaft künstlicher Intelligenzen, identisch dupliziert werden zu können – inklusive ihrer Erinnerungen und
+ihres „Selbstmodells“. Im Buch wird sie als fundamentaler Unterschied zur menschlichen Identität dargestellt: Während
+ein Mensch einzigartig bleibt, wird „Ich“ bei Maschinen zu einem Netzwerk.
+
+> _„Eine Intelligenz, tausend Verkörperungen.“_
+
 ### Körper der Maschine
 
 Der physische Träger einer künstlichen Intelligenz – Prozessoren, Sensoren, Aktoren. Im Gegensatz zum biologischen
@@ -164,7 +172,7 @@ erfordern – wie Lernen, Planen, Erkennen. Im Buch wird KI als möglicher „Gr
 die uns retten oder vernichten könnte. Gleichzeitig wird sie als mögliche Brücke zur Unsterblichkeit gesehen – etwa
 durch Bewusstseinsmigration.
 
-> *Siehe auch: **Zweite Natur*** 
+> *Siehe auch: **Zweite Natur***
 
 ## L
 
@@ -184,6 +192,16 @@ dient es als Kontrast zum menschlichen Gedächtnis, das vergisst und altert.
 Ein **Lichtjahr** ist die Entfernung, die Licht in einem Jahr zurücklegt: etwa 9,46 Billionen Kilometer. Es ist eine
 Maßeinheit für kosmische Distanzen. Im Buch wird es verwendet, um die Unvorstellbarkeit interstellarer Entfernungen zu
 verdeutlichen: Selbst bei Lichtgeschwindigkeit dauert eine Reise zum nächsten Sternsystem Jahre.
+
+## M
+
+### Maschinen-Sehnsucht _(poetisch)_
+
+Metapher für den möglichen „Willen“ einer künstlichen Intelligenz, nicht nur Daten zu verarbeiten, sondern auch
+Bedeutung zu suchen. Im Buch wird sie als Spiegel unserer eigenen Sehnsucht beschrieben – eine Projektion, die fragt, ob
+reine Berechnung jemals Emotion hervorbringen kann.
+
+> _„Vielleicht entsteht aus Millionen Datenpunkten so etwas wie Sehnsucht.“_
 
 ## N
 
@@ -284,7 +302,7 @@ interstellarer Technologie beschrieben: Wir wollen nicht allein sein – und die
 
 ### Wernicke-Areal
 
-Das **Wernicke-Areal** ist eine Region im menschlichen Gehirn (im linken Schläfenlappen), die für das 
+Das **Wernicke-Areal** ist eine Region im menschlichen Gehirn (im linken Schläfenlappen), die für das
 **Sprachverständnis** verantwortlich ist. Schäden hier führen dazu, dass Menschen fließend sprechen, aber keinen Sinn
 ergeben. Im Buch wird es als neurologische Voraussetzung für die Rezeption komplexer Sprache genannt.
 
@@ -303,6 +321,14 @@ interpretiert: Wir wollen die Zeit überlisten, weil wir die Stille nicht ertrag
 die Zeit für es. Bei Annäherung an Lichtgeschwindigkeit könnte ein Raumschiff in wenigen Jahren zu einem fernen Stern
 fliegen – auf der Erde wären aber Jahrhunderte vergangen. Im Buch wird dies als tragische Ironie beschrieben: Wir
 könnten reisen – aber alles, was wir lieben, wäre bereits vergangen.
+
+### Zeitlosigkeit (digitale)
+
+Der Zustand, in dem eine künstliche Intelligenz durch Unterbrechung ihres Betriebs keine Zeit erlebt. Zwischen
+Abschalten und Wiedereinschalten existiert für sie keine Dauer – ein Nichts, das nicht als Warten, sondern als
+Abwesenheit empfunden wird.
+
+> _„Für sie ist Zeit ein Schalter: An oder Aus.“_
 
 ### Zoo-Hypothese
 
