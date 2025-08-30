@@ -69,7 +69,7 @@ sondern nur ein technisches Problem.
 ### Bedürfnisse ohne Sterblichkeit
 
 <figure> 
-<img src="../../assets/illustrations/chapter10_energy_need.jpg" 
+<img src="assets/illustrations/chapter10_energy_need.jpg" 
 alt="Eine Maschine kniet vor einem strahlenden Reaktor, Energie strömt in ihren Körper wie Nahrung." /> 
 <figcaption>
 <em>Bedürfnisse ohne Sterblichkeit – Hunger nach Strom statt Brot.</em>
