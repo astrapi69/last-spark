@@ -46,6 +46,8 @@ FORMATS = {
 
 # Default section order (customizable)
 DEFAULT_SECTION_ORDER = [
+    "front-matter/copyright.md",
+    "front-matter/imprint.md",
     "front-matter/toc.md",
     "front-matter/foreword.md",
     "front-matter/introduction.md",
