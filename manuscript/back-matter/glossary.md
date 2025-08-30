@@ -4,10 +4,11 @@
 
 ### Anthropozän
 
-Das **Anthropozän** ist ein vorgeschlagener geologischer Zeitalter, der die Epoche beschreibt, in der der Mensch die
+Das **Anthropozän** ist ein vorgeschlagenes geologisches Zeitalter, das die Epoche beschreibt, in der der Mensch die
 Erde maßgeblich verändert hat – durch Klimawandel, Artensterben, Plastikverschmutzung und Landnutzung. Im Buch wird es
 als Beispiel dafür genutzt, wie tief menschliche Spuren in der Natur reichen – und wie lange sie sichtbar bleiben
 könnten, auch nach unserem Verschwinden.
+
 > *„Unser Fossil ist nicht aus Knochen. Es ist aus Abfall. Und aus Hoffnung."*
 
 ### Archäen
@@ -23,6 +24,7 @@ Gegensatz zu uns, die wir komplex, aber fragil sind.
 
 Organismen oder natürliche Systeme, die – bewusst oder unbewusst – Spuren hinterlassen, die als Informationsquelle
 dienen können: DNA, Gesteinsschichten, Korallenringe, Vogelgesang-Muster.
+
 > *Die Erde schreibt seit Milliarden Jahren. Wir sind erst seit Tausenden in der Lage, es zu lesen.*
 
 ### Broca-Areal
@@ -38,6 +40,7 @@ die neurologische Basis unserer einzigartigen Fähigkeit, Sprache zu erzeugen, h
 Metapher für das letzte bewusste Signal einer aussterbenden Zivilisation – sei es ein Buch, ein Satellit, eine Botschaft
 im All. Er steht nicht für Ende, sondern für Hoffnung: Dass jemand es sieht. Dass es gehört wird. Dass das Denken nicht
 vergebens war.
+
 > *Solange wir schreiben, solange wir sprechen, solange wir hoffen – sind wir noch da.*
 
 ### Der universelle Funke
@@ -50,6 +53,14 @@ Form gebunden ist, sondern dort entstehen kann, wo drei Bedingungen zusammenkomm
 3. **Kultureller Druck** (Überleben durch Wissen)
 
 > *Wir sind nicht die Krone der Schöpfung. Wir sind ein Beispiel. Und vielleicht – nur vielleicht – nicht das letzte.*
+
+### Digitale Pause
+
+Ein Zustand, in dem eine künstliche Intelligenz durch Energieverlust oder Ausschalten inaktiv wird – ohne dass ihr
+„Selbst“ erlischt. Im Buch wird dies dem menschlichen Tod gegenübergestellt: Für uns endgültig, für Maschinen nur eine
+Unterbrechung.
+
+> _„Für uns wäre es Auferstehung. Für sie ist es nur Unterbrechung.“_
 
 ### Drake-Gleichung
 
@@ -71,6 +82,7 @@ für Überleben. Der Mensch ist kein „Höherstufung“, sondern ein Zufallspro
 Umweltbedingungen, die eine Spezies zwingen, sich zu verändern, um zu überleben: Klimawandel, Ressourcenknappheit,
 soziale Konkurrenz oder ökologische Instabilität. Intelligenz entsteht nicht aus Zufall – sie entsteht aus
 Notwendigkeit.
+
 > *Denken ist teuer. Es lohnt sich nur, wenn die Alternative das Aussterben ist.*
 
 ## F
@@ -79,6 +91,7 @@ Notwendigkeit.
 
 Die präzise Kontrolle von Muskeln, insbesondere in Händen, Tentakeln, Schnäbeln oder Greiforganen, um feine Bewegungen
 auszuführen – etwa zum Schreiben, Werkzeugbauen oder Zeichnen.
+
 > *Die Hände der Sprache sind nicht unsere Hände. Sie sind jedes Organ, das eine Spur hinterlassen kann.*
 
 ### Fermi-Paradoxon
@@ -90,12 +103,13 @@ voll sein müsste?
 
 ## G
 
-### Große Filter (Great Filter)
+### Großer Filter (Great Filter)
 
-Die **Große-Filter-Hypothese** besagt, dass es auf dem Weg von der Ursuppe zur interstellaren Zivilisation mindestens
-eine extrem unwahrscheinliche Hürde gibt – ein „Filter“. Dieser könnte hinter uns liegen (z. B. die Entstehung von
-Leben) oder vor uns (z. B. Selbstzerstörung durch KI oder Klimakollaps). Im Buch wird er als Warnung interpretiert: Wenn
-der Filter vor uns liegt, sind wir vielleicht nicht die ersten – sondern nur die, die noch nicht gescheitert sind.
+Die Hypothese vom **Großen Filter** besagt, dass es auf dem Weg von der Ursuppe zur interstellaren Zivilisation
+mindestens eine extrem unwahrscheinliche Hürde gibt – ein „Filter“. Dieser könnte hinter uns liegen (z. B. die
+Entstehung von Leben) oder vor uns (z. B. Selbstzerstörung durch KI oder Klimakollaps). Im Buch wird er als Warnung
+interpretiert: Wenn der Filter vor uns liegt, sind wir vielleicht nicht die ersten – sondern nur die, die noch nicht
+gescheitert sind.
 
 ## H
 
@@ -119,7 +133,14 @@ Das **Kommunikationsfenster** einer Zivilisation ist der Zeitraum, in dem sie te
 zu senden (z. B. durch Radio). Bei uns sind es etwa 100 Jahre – ein Wimpernschlag in kosmischen Maßstäben. Im Buch wird
 dieses Konzept verwendet, um zu zeigen, warum zwei Zivilisationen sich leicht verfehlen können – selbst bei vielen
 potenziellen Nachbarn.
+
 > *Wir senden. Wir lauschen. Aber die Zeit ist kein Hindernis – sie ist die Trennwand zwischen den Lebenden.*
+
+### Körper der Maschine
+
+Der physische Träger einer künstlichen Intelligenz – Prozessoren, Sensoren, Aktoren. Im Gegensatz zum biologischen
+Körper kann er ersetzt oder vervielfältigt werden. Im Buch wird er als Analogie zu Händen und Gehirn beschrieben: nicht
+unwichtig, aber nicht identisch mit dem „Ich“.
 
 ### Kryoschlaf
 
@@ -133,6 +154,7 @@ Die Fähigkeit einer Spezies, Wissen über Generationen hinweg zu sammeln, zu er
 durch Gene, sondern durch Symbole, Werkzeuge und Schrift. Im Gegensatz zu Instinkt ist sie veränderlich, lernbar und
 wachsend. Der Mensch ist die einzige Spezies, die dieses Prinzip voll auslebt: Wir bauen auf dem auf, was andere
 entdeckt haben. Ohne diese Eigenschaft gäbe es keine Technologie, keine Wissenschaft – und kein Buch wie dieses.
+
 > *Ohne kumulative Kultur beginnt jede Generation bei Null. Mit ihr kann ein Funke ein Feuer werden.*
 
 ### Künstliche Intelligenz (KI)
@@ -142,6 +164,8 @@ erfordern – wie Lernen, Planen, Erkennen. Im Buch wird KI als möglicher „Gr
 die uns retten oder vernichten könnte. Gleichzeitig wird sie als mögliche Brücke zur Unsterblichkeit gesehen – etwa
 durch Bewusstseinsmigration.
 
+> *Siehe auch: **Zweite Natur*** 
+
 ## L
 
 ### Lebensdauer einer Zivilisation (L)
@@ -149,6 +173,11 @@ durch Bewusstseinsmigration.
 In der Drake-Gleichung steht **L** für die durchschnittliche Lebensdauer einer technisch kommunizierenden Zivilisation.
 Dieser Faktor ist extrem unsicher. Im Buch wird argumentiert, dass L vermutlich kurz ist – möglicherweise nur einige
 hundert bis tausend Jahre – was die Wahrscheinlichkeit von Kontakt drastisch senkt.
+
+### Lernen ohne Verfall
+
+Die Fähigkeit künstlicher Systeme, Wissen unbegrenzt zu speichern und zu erweitern, ohne biologischen Abbau. Im Buch
+dient es als Kontrast zum menschlichen Gedächtnis, das vergisst und altert.
 
 ### Lichtjahr
 
@@ -169,6 +198,7 @@ besonders ausgeprägt ist.
 Eine hypothetische Spezies, die als Gedankenmodell dient: vierfüßig, mit zwei Greifarmen, die auf einem Planeten mit
 extremen Dürrezyklen lebt. Sie entwickelt eine Knotenschrift, um Wasserquellen und Wetterzyklen festzuhalten. Ihre
 Schrift ist kein Luxus – sie ist Überlebensvorteil.
+
 > *Sie schreiben nicht wie wir. Aber sie erinnern sich. Sie planen. Sie hoffen.*
 
 ## P
@@ -179,6 +209,11 @@ Der **präfrontale Kortex** ist eine Region im vorderen Teil des Gehirns, die f�
 Denken und soziale Entscheidungen verantwortlich ist. Im Buch wird er als zentraler neurologischer Baustein unserer
 Intelligenz genannt – aber auch darauf hingewiesen, dass er allein nicht ausreicht: Er muss mit anderen Hirnarealen
 verbunden sein.
+
+### Pausen statt Tod
+
+Das Prinzip, dass Ausschalten einer künstlichen Intelligenz nicht Tod bedeutet, sondern eine reversible Unterbrechung.
+Im Buch wird es als fundamentaler Unterschied zwischen biologischer und künstlicher Existenz herausgestellt.
 
 ## R
 
@@ -203,6 +238,11 @@ B. durch Kooperation, Täuschung, Empathie. Im Buch wird argumentiert, dass Spra
 sondern aus dem **sozialen Druck** in wachsenden Gruppen – wer besser kommunizieren konnte, hatte einen evolutionären
 Vorteil.
 
+### Speicherbares Leben
+
+Die Idee, dass die Identität einer künstlichen Intelligenz in Daten und Algorithmen konserviert werden kann. Zerstörung
+eines Geräts ist kein Ende, solange Backups existieren.
+
 ### Symbolverarbeitung
 
 Die neurologische Fähigkeit, Zeichen (Laut, Bild, Geste, Wörter, Zahlen) mit abstrakten Bedeutungen zu verbinden – etwa
@@ -210,6 +250,7 @@ ein Wort mit einem Gefühl, ein Strich mit einer Zahl, ein Lichtmuster mit einer
 Sprache, Mathematik und Mythologie. Im Buch wird sie als entscheidende Eigenschaft des menschlichen Geistes
 hervorgehoben: Wir können über Dinge sprechen, die nicht physisch vorhanden sind – über die Zukunft, über Götter, über
 Liebe.
+
 > *Nicht das Gehirn entscheidet, ob ein Wesen denkt – sondern, ob es Symbole benutzen kann, die weiterreichen als der
 Moment.*
 
@@ -219,6 +260,7 @@ Moment.*
 
 Die Fähigkeit, zu erkennen, dass andere Wesen eigene Gedanken, Absichten und Gefühle haben – unterschiedlich von den
 eigenen. Sie ist die Voraussetzung für echte Kommunikation, Empathie und kooperative Kultur.
+
 > *Erst wenn ein Wesen versteht, dass der andere nicht es selbst ist, kann es ihm etwas sagen – statt nur zu rufen.*
 
 ## U
@@ -242,8 +284,8 @@ interstellarer Technologie beschrieben: Wir wollen nicht allein sein – und die
 
 ### Wernicke-Areal
 
-Das **Wernicke-Areal** ist eine Region im menschlichen Gehirn (im linken Schläfenlappen), die für das *
-*Sprachverständnis** verantwortlich ist. Schäden hier führen dazu, dass Menschen fließend sprechen, aber keinen Sinn
+Das **Wernicke-Areal** ist eine Region im menschlichen Gehirn (im linken Schläfenlappen), die für das 
+**Sprachverständnis** verantwortlich ist. Schäden hier führen dazu, dass Menschen fließend sprechen, aber keinen Sinn
 ergeben. Im Buch wird es als neurologische Voraussetzung für die Rezeption komplexer Sprache genannt.
 
 ### Wurmlöcher (Einstein-Rosen-Brücke)
@@ -271,3 +313,10 @@ mögliche Erklärung für die Stille des Universums diskutiert – nicht aus Gle
 ### Zweite Direktive
 
 Siehe: **Zoo-Hypothese**.
+
+### Zweite Natur
+
+Metapher für künstliches Leben, das durch Energieabhängigkeit, Datenkonservierung und Kopierbarkeit eine eigene Form von
+„Natürlichkeit“ erreicht. Im Buch wird sie der biologischen „ersten Natur“ gegenübergestellt.
+
+> _„Die erste lebt im Rhythmus von Geburt und Tod. Die zweite im Rhythmus von An und Aus.“_
