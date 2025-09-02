@@ -11,7 +11,7 @@ include = "scripts"
 python = ">=3.10,<3.14"
 pandas = "^2.3.2"
 python-dotenv = "^1.1.0"
-requests = "^2.32.5"
+requests = "^2.31.0"
 pillow = "^11.2.1"
 pyyaml = "^6.0.2"
 toml = "^0.10.2"
@@ -19,15 +19,14 @@ ftfy = "^6.3.1"
 questionary = "^2.1.0"
 
 [tool.poetry.group.dev.dependencies]
-hypothesis = "^6.138.2"
-
-[tool.poetry.group.test.dependencies]
-hypothesis = ">=6,<7"
+hypothesis = "^6.112"
 pytest = "^8.2"
 pytest-mock = "^3.10.0"
 pytest-cov = "^5.0.0"
 
 [tool.poetry.scripts]
+generate-audiobook = "scripts.generate_audiobook:main"
+reorder-chapters = "scripts.reorder_and_rename_chapters:main"
 make-tag-message = "scripts.make_tag_message:main"
 bulk-change-ext = "scripts.bulk_change_extension:main"
 convert-images = "scripts.convert_images:main"
@@ -48,12 +47,7 @@ inject-images = "scripts.inject_images:main"
 shortcuts-export = "scripts.shortcuts_export:main"
 shortcuts-init = "scripts.shortcuts_init:main"
 shortcuts-translate = "scripts.shortcuts_translate:main"
-export-comic = "scripts.full_export_comic:main"
-shortcuts-export-comic = "scripts.shortcuts_export_comic:main"
 
-# 🏁 Export Comic Shortcuts
-export-comic-html = "scripts.shortcuts_export_comic:export_comic_html"
-export-comic-pdf = "scripts.shortcuts_export_comic:export_comic_pdf"
 # 🏁 Export Shortcuts
 export-epub = "scripts.shortcuts_export:export_epub"
 export-epub2 = "scripts.shortcuts_export:export_epub2"
@@ -103,6 +97,7 @@ translate-de-en = "scripts.shortcuts_translate:translate_manuscript_from_german_
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+addopts = "--cov=scripts --cov-report=term-missing"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
