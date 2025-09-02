@@ -10,7 +10,6 @@ Kein Teil dieses Buches darf ohne ausdrückliche Genehmigung des Autors reproduz
 werden – in keiner Form und mit keinen Mitteln, elektronisch, mechanisch, durch Fotokopie, Aufnahme oder andere
 Verfahren.
 
-**ISBN (Print):** 9798297402737  
 Umschlaggestaltung: **Consciousness Press**  
 Satz und Produktion: Consciousness Press
 
