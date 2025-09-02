@@ -4,15 +4,11 @@ from __future__ import annotations
 import json
 from pathlib import Path
 from types import SimpleNamespace
-import logging
 
 import pytest
 import requests
 
 import scripts.generate_images_deepai as mod
-# Configure root logger; tests can override with caplog
-logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-logger = logging.getLogger(__name__)
 
 
 class FakeResponse:
@@ -131,27 +127,16 @@ def test_generate_image_missing_output_url(tmp_path, caplog):
     assert "missing output_url" in caplog.text
 
 
-
 def test_make_config_requires_api_key(monkeypatch, tmp_path, caplog):
     caplog.set_level("ERROR")
 
-    # 1) Ensure module cannot see any API key via env
+    # ensure no env var
     monkeypatch.delenv("DEEPAI_API_KEY", raising=False)
-    # If the module uses os.getenv internally, stub it to always return None
+    # block getenv to avoid leaking a real key from environment
     monkeypatch.setattr(mod.os, "getenv", lambda *a, **k: None)
 
-    # 2) If your module has any helpers that resolve API keys from files/etc.,
-    #    neuter them defensively (only if they exist).
-    for attr in ("get_api_key", "load_api_key", "read_api_key_file", "resolve_api_key"):
-        if hasattr(mod, attr):
-            monkeypatch.setattr(mod, attr, lambda *a, **k: None)
-
-    # 3) Create a real prompt file so we pass the existence check
-    prompt_path = tmp_path / "prompts.json"
-    prompt_path.write_text('{"chapters": []}', encoding="utf-8")
-
     args = SimpleNamespace(
-        prompt_file=str(prompt_path),
+        prompt_file=str(tmp_path / "prompts.json"),
         output_dir=str(tmp_path / "out"),
         api_key=None,
         character_profile=str(tmp_path / "chars.json"),
