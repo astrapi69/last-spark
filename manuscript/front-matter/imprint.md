@@ -10,7 +10,7 @@ Alle Rechte vorbehalten.
 Kein Teil dieses Buches darf ohne Genehmigung des Autors in irgendeiner Form reproduziert oder übertragen werden – weder
 elektronisch noch mechanisch, einschließlich Fotokopie oder Aufnahme.
 
-**ISBN (Print):** 9798262962532
+**ASIN (Ebook):** B0FLWSNQCW
 
 **Kontakt:**  
 E-Mail: draven.quantum@gmail.com  
